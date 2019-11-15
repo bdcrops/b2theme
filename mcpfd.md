@@ -4,18 +4,18 @@ This exam consists primarily of scenario-based questions in a multiple-choice fo
 Test time: 90 minutes. Passing score: 63% or above, 60 questions. Available to take remotely or at a test center.
 
 ## Exam topics and the percentage covered in the test.
-1. Create Themes 7%
-2. Magento Design Configuration System 7%
-3. Layout XML in Themes 18%
-4. Create and Customize Template Files 8%
-5. Static Asset Deployment 5%
-6. Customize and Create JavaScript 17%
-7. Use LESS/CSS to Customize Magento Look and Feel 8%
-8. Customize the Look and Feel of Specific Magento Pages 22%
-9. Implement Internationalization of Frontend Pages 5%
-10. Magento Development Process 3%
+- 1. Create Themes 7%
+- 2. Magento Design Configuration System 7%
+- 3. Layout XML in Themes 18%
+- 4. Create and Customize Template Files 8%
+- 5. Static Asset Deployment 5%
+- 6. Customize and Create JavaScript 17%
+- 7. Use LESS/CSS to Customize Magento Look and Feel 8%
+- 8. Customize the Look and Feel of Specific Magento Pages 22%
+- 9. Implement Internationalization of Frontend Pages 5%
+- [10. Magento Development Process 3%](#10)
 
-## Topics and Objectives
+##  <a name="top"> Topics and Objectives</a>
 
 ### 1 Create Themes 7%
 
@@ -283,7 +283,7 @@ footer, quick search, store view (language) switcher, mini cart, breadcrumbs, an
 - How can you create a link to custom images from transactional email templates?
 - How do you create links to store pages in transactional email templates?
 
-### 9 Implement Internationalization of Frontend Pages 5%
+### 9 Implement Internationalization of Frontend Pages 5% [Go to Top](#top)
 
 #### 9.1 Create and change translations
 - Demonstrate an understanding of internationalization (i18n) in Magento.
@@ -294,7 +294,8 @@ footer, quick search, store view (language) switcher, mini cart, breadcrumbs, an
 #### 9.2 Translate theme strings for .phtml, emails, UI components, .js files
 - Demonstrate an understanding of string translation in JavaScript.
 
-### 10 Magento Development Process 3%
+###  <a name="10"> 10 Magento Development Process 3%</a>
+
 #### 10.1 Determine ability to manage cache
 - Demonstrate an understanding of configuring the Magento cache types for development and production.
 
