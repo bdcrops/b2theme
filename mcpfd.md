@@ -36,7 +36,7 @@ Test time: 90 minutes. Passing score: 63% or above, 60 questions. Available to t
 Which design areas exist? What is the difference between them, and what do design areas have in common? What are
 design areas used for? How can design areas be utilized for custom themes or customizations?
 
-### <a name="2">2 Magento Design Configuration System 7% </a>
+### <a name="2">2 Magento Design Configuration System 7% </a> [Go to Top](#top)
 
 #### 2.1 Describe the relationship between themes
 - What type of relationships can exist between themes?
@@ -59,7 +59,7 @@ design areas used for? How can design areas be utilized for custom themes or cus
 - Configuration and > Schedule to configure the design fallback
 - What is the effect if both options are used at the same time?
 
-### <a name="3">3 Layout XML in Themes 18%</a>
+### <a name="3">3 Layout XML in Themes 18%</a> [Go to Top](#top)
 #### 3.1 Demonstrate knowledge of all layout XML directives and their arguments
 - What layout XML elements exist and what is their purpose?
 - What is the purpose of the attributes that are available on blocks and other elements?
@@ -112,7 +112,7 @@ design areas used for? How can design areas be utilized for custom themes or cus
 - How can values from etc/view.xml be used during theming?
 - How does theme inheritance influence values from etc/view.xml?
 
-### <a name="4"> 4 Create and Customize Template Files 8%</a>
+### <a name="4"> 4 Create and Customize Template Files 8%</a> [Go to Top](#top)
 
 #### 4.1 Assign a customized template file using layout XML
 - How can a customized template file be assigned to a block using layout XML?
@@ -137,7 +137,7 @@ design areas used for? How can design areas be utilized for custom themes or cus
 #### 4.5 Demonstrate ability to escape content rendered and template files
 - How can dynamic values be rendered securely in HTML, HTML attributes, JavaScript, and in URLs?
 
-### <a name="5">5 Static Asset Deployment 5%</a>
+### <a name="5">5 Static Asset Deployment 5%</a> [Go to Top](#top)
 #### 5.1 Describe the static asset deployment process for different file types
 - What commands must be executed to deploy static file types?
 - What are common mistakes during the process?
@@ -150,7 +150,7 @@ design areas used for? How can design areas be utilized for custom themes or cus
 - How are they different?
 - How do they influence the developer workflow during theming?
 
-### <a name="6">6 Customize and Create JavaScript 17%</a>
+### <a name="6">6 Customize and Create JavaScript 17%</a> [Go to Top](#top)
 #### 6.1 Include custom JavaScript on pages
 - What options exist to include custom JavaScript on a page?
 - What are the advantages and disadvantages of inline JavaScript?
@@ -202,7 +202,7 @@ design areas used for? How can design areas be utilized for custom themes or cus
 - Demonstrate an understanding of ES5 string literal templates like ${$.provider}.
 - What does $. Inside of ${ } resolve to?
 
-### <a name="7"> 7 Use LESS/CSS to Customize the Magento Look and Feel 8%</a>
+### <a name="7"> 7 Use LESS/CSS to Customize the Magento Look and Feel 8%</a> [Go to Top](#top)
 #### 7.1 Explain core concepts of LESS
 - Describe features like file import via @import directive, reusable code sections via mixins together with parameters and
 the usage of variables.
@@ -238,7 +238,7 @@ standard design elements on websites.
 - Where can UI library files be found? How can it be extended?
 - How can you change specific parts of the UI library?
 
-### <a name="8">8 Customize the Look and Feel of Specific Magento Pages 22%</a>
+### <a name="8">8 Customize the Look and Feel of Specific Magento Pages 22%</a> [Go to Top](#top)
 #### 8.1 Utilize generic page elements
 - Demonstrate an understanding of customizing generic page elements that can be found on most pages: page header and
 footer, quick search, store view (language) switcher, mini cart, breadcrumbs, and sidebar menu.
@@ -286,22 +286,35 @@ footer, quick search, store view (language) switcher, mini cart, breadcrumbs, an
 ### <a name="9"> 9 Implement Internationalization of Frontend Pages 5%</a> [Go to Top](#top)
 
 #### 9.1 Create and change translations
-- Demonstrate an understanding of internationalization (i18n) in Magento.
-- What is the role of the theme translation dictionary, language packs, and database translations?
-- Understand the pros and cons of applying translations via the translate.csv file versus the core_translate table.
-- In what priority are translations applied?
+- Demonstrate an understanding of internationalization (i18n) in Magento. []()
+- What is the role of the theme translation dictionary, language packs, and database translations? []()
+- Understand the pros and cons of applying translations via the translate.csv file versus the core_translate table.[]()
+- In what priority are translations applied? []()
 
-#### 9.2 Translate theme strings for .phtml, emails, UI components, .js files
-- Demonstrate an understanding of string translation in JavaScript.
+#### 9.2 Translate theme strings
+- Translate theme strings for .phtml, emails, UI components, .js files? []()
+- Demonstrate an understanding of string translation in JavaScript? []()
 
-###  <a name="10"> 10 Magento Development Process 3%</a>
+
+###  <a name="10"> 10 Magento Development Process 3%</a> [Go to Top](#top)
 
 #### 10.1 Determine ability to manage cache
-- Demonstrate an understanding of configuring the Magento cache types for development and production.
+- Determine ability to manage cache? [devdocs](https://devdocs.magento.com/guides/v2.3/config-guide/cli/config-cli-subcommands-cache.html)
+- Demonstrate an understanding of configuring the Magento cache types for development and production. [mageworx](https://www.mageworx.com/wiki/magento2-cache) 
+
+
 
 #### 10.2 Understand Magento console commands
-- How do you switch between deploy modes?
-- What bin/magento commands are commonly run during frontend development?
+- How do you switch between deploy modes? [devdocs](https://devdocs.magento.com/guides/v2.3/config-guide/cli/config-cli-subcommands-mode.html), [belvg](https://belvg.com/blog/how-to-switch-between-deploy-modes-in-magento-2.html)
+
+
+- What bin/magento commands are commonly run during frontend development? [devdocs](https://devdocs.magento.com/guides/v2.3/config-guide/cli/config-cli-subcommands.html),[mageplaza](https://www.mageplaza.com/devdocs/magento-2-command-line-interface-cli.html),[emiprotechnologies](https://www.emiprotechnologies.com/technical_notes/magento-technical-notes-60/post/magento-2-useful-commands-list-391)
+
+
+
+
+
+
 
 
 ### Magento 2 Certified Professional Front End Developer Exam
