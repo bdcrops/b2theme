@@ -270,7 +270,8 @@ standard design elements on websites.
 - How can a custom widget target be created? []()
 - Demonstrate an understanding of configuring a widget instance.[]()
 
-#### 8.6 Customizing CMS blocks
+#### 8.6 Customizing CMS blocks  [stackexchange](https://magento.stackexchange.com/questions/250432/override-footer-content-with-custom-cms-blocks), [devdocs](https://devdocs.magento.com/guides/v2.3/frontend-dev-guide/layouts/xml-manage.html), [devdocs](https://devdocs.magento.com/guides/v2.3/ext-best-practices/tutorials/custom-widget.html), [magenticians](https://magenticians.com/magento-cms/)
+
 - How do you create and insert CMS blocks? [meetanshi](https://meetanshi.com/blog/call-cms-static-block-in-phtml-file-in-magento-2/), [ibnab](https://www.ibnab.com/en/blog/magento-2), [tigrensolutions](http://tigrensolutions.blogspot.com/2018/11/how-to-add-custom-validate-field-in.html)
 
 
