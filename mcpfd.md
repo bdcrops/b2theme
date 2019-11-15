@@ -286,21 +286,39 @@ footer, quick search, store view (language) switcher, mini cart, breadcrumbs, an
 ### <a name="9"> 9 Implement Internationalization of Frontend Pages 5%</a> [Go to Top](#top)
 
 #### 9.1 Create and change translations
-- Demonstrate an understanding of internationalization (i18n) in Magento. []()
-- What is the role of the theme translation dictionary, language packs, and database translations? []()
-- Understand the pros and cons of applying translations via the translate.csv file versus the core_translate table.[]()
-- In what priority are translations applied? []()
+- Demonstrate an understanding of internationalization (i18n) in Magento. [devdocs](https://devdocs.magento.com/guides/v2.3/frontend-dev-guide/translations/translate_practice.html),[commerce](https://developers.front-commerce.com/docs/magento2/i18n.html),[nwdthemes](https://nwdthemes.com/2019/03/05/magento-2-language-package-explained/) 
+
+- What is the role of the theme translation dictionary, language packs, and database translations? [appjetty](https://devdocs.magento.com/guides/v2.3/config-guide/cli/config-cli-subcommands-i18n.html), [appjetty](https://www.appjetty.com/blog/multi-language-store-magento2)
+
+
+- Understand the pros and cons of applying translations via the translate.csv file versus the core_translate table.[devdocs](https://devdocs.magento.com/guides/v2.3/frontend-dev-guide/translations/xlate.html)
+
+- In what priority are translations applied?  [webinterpret](https://www.webinterpret.com/au/blog/ecommerce-translation-magento/), [atwix](https://www.atwix.com/magento/manage-translation-system/), [belvg](https://belvg.com/blog/how-to-internationalize-a-magento-store.html),[stackexchange](https://magento.stackexchange.com/questions/170997/magento-2-priority-of-translation-proper-way)
+
+
+
+
+
+
+
 
 #### 9.2 Translate theme strings
-- Translate theme strings for .phtml, emails, UI components, .js files? []()
-- Demonstrate an understanding of string translation in JavaScript? []()
+
+- Translate theme strings for .phtml, emails, UI components, .js files? [belvg](https://belvg.com/blog/plus-one-magento-2-professional-front-end-developer.html), [magestore](https://www.magestore.com/magento-2-tutorial/how-to-translate-a-string-by-code-in-magento-2/)
+
+
+
+
+- Demonstrate an understanding of string translation in JavaScript? [devdocs](https://devdocs.magento.com/guides/v2.3/frontend-dev-guide/translations/translate_theory.html),[firebearstudio](https://firebearstudio.com/blog/how-to-make-javascript-strings-translatable-localizable-in-magento-2.html),[mrvts](https://mrvts.wordpress.com/2018/07/19/magento-2-javascript-translation-sometime-translate-sometime-not-work-why-and-how-to-fix/),[webnexs](https://www.webnexs.com/blog/kb/convert-string-by-code-magento-2/),[integer](https://www.integer-net.com/magento-2-translations-contribution/)
+
+
 
 
 ###  <a name="10"> 10 Magento Development Process 3%</a> [Go to Top](#top)
 
 #### 10.1 Determine ability to manage cache
 - Determine ability to manage cache? [devdocs](https://devdocs.magento.com/guides/v2.3/config-guide/cli/config-cli-subcommands-cache.html)
-- Demonstrate an understanding of configuring the Magento cache types for development and production. [mageworx](https://www.mageworx.com/wiki/magento2-cache) 
+- Demonstrate an understanding of configuring the Magento cache types for development and production. [mageworx](https://www.mageworx.com/wiki/magento2-cache)
 
 
 
@@ -313,9 +331,7 @@ footer, quick search, store view (language) switcher, mini cart, breadcrumbs, an
 
 
 
-
-
-
+****
 
 ### Magento 2 Certified Professional Front End Developer Exam
 Example Questions See the Answer Key following the questions for answers.
