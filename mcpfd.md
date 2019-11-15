@@ -36,7 +36,7 @@ Test time: 90 minutes. Passing score: 63% or above, 60 questions. Available to t
 Which design areas exist? What is the difference between them, and what do design areas have in common? What are
 design areas used for? How can design areas be utilized for custom themes or customizations?
 
-### 2 Magento Design Configuration System
+### 2 Magento Design Configuration System 7%
 
 #### 2.1 Describe the relationship between themes
 - What type of relationships can exist between themes?
@@ -59,7 +59,7 @@ design areas used for? How can design areas be utilized for custom themes or cus
 - Configuration and > Schedule to configure the design fallback
 - What is the effect if both options are used at the same time?
 
-### 3 Layout XML in Themes
+### 3 Layout XML in Themes 18%
 #### 3.1 Demonstrate knowledge of all layout XML directives and their arguments
 - What layout XML elements exist and what is their purpose?
 - What is the purpose of the attributes that are available on blocks and other elements?
@@ -112,7 +112,7 @@ design areas used for? How can design areas be utilized for custom themes or cus
 - How can values from etc/view.xml be used during theming?
 - How does theme inheritance influence values from etc/view.xml?
 
-### 4 Create and Customize Template Files
+### 4 Create and Customize Template Files 8%
 
 #### 4.1 Assign a customized template file using layout XML
 - How can a customized template file be assigned to a block using layout XML?
