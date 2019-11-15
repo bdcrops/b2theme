@@ -238,7 +238,7 @@ standard design elements on websites.
 - Where can UI library files be found? How can it be extended?
 - How can you change specific parts of the UI library?
 
-### <a name="10">8 Customize the Look and Feel of Specific Magento Pages 22%</a>
+### <a name="8">8 Customize the Look and Feel of Specific Magento Pages 22%</a>
 #### 8.1 Utilize generic page elements
 - Demonstrate an understanding of customizing generic page elements that can be found on most pages: page header and
 footer, quick search, store view (language) switcher, mini cart, breadcrumbs, and sidebar menu.
