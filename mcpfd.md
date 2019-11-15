@@ -271,12 +271,18 @@ standard design elements on websites.
 - Demonstrate an understanding of configuring a widget instance.[]()
 
 #### 8.6 Customizing CMS blocks
-- How do you create and insert CMS blocks? []()
-- Demonstrate an understanding of the use of CMS template directives (var,store, block, …).[]()
+- How do you create and insert CMS blocks? [meetanshi](https://meetanshi.com/blog/call-cms-static-block-in-phtml-file-in-magento-2/), [ibnab](https://www.ibnab.com/en/blog/magento-2), [tigrensolutions](http://tigrensolutions.blogspot.com/2018/11/how-to-add-custom-validate-field-in.html)
+
+
+- Demonstrate an understanding of the use of CMS template directives (var,store, block, …). [meetanshi](https://meetanshi.com/blog/call-cms-static-block-in-phtml-file-in-magento-2/), [chapagain](https://blog.chapagain.com.np/magento-2-add-update-cms-static-block-via-install-upgrade-script-programmatically/), [belvg](https://belvg.com/blog/how-to-create-menu-in-magento-2-step-by-step-instruction.html), [amasty](https://amasty.com/blog/customize-contact-us-form-in-magento-2/), [javatpoint](https://www.javatpoint.com/create-and-manage-cms-in-magento-2), [stackexchange](https://magento.stackexchange.com/questions/281222/magento-2-how-to-update-block-programmatically)
 
 #### 8.7 Customizing customer account pages
-- How do you remove or add an item from the customer account navigation using layout XML?[]()
-- Demonstrate an understanding of formatting customer addresses.[]()
+- How do you remove or add an item from the customer account navigation using layout XML? [stackexchange](https://magento.stackexchange.com/questions/91648/how-to-add-remove-links-on-my-account-navigation-magento2), [zemez](https://zemez.io/magento/support/how-to/magento-2-remove-customer-account-navigation-links/), [aureatelabs](https://aureatelabs.com/how-to/how-to-remove-unnecessary-customer-account-links-in-magento-2/), [inchoo](https://inchoo.net/magento-2/managing-my-account-navigation-links-magento-2/),
+[mage2](https://mage2.pro/t/topic/1571)
+
+- Demonstrate an understanding of formatting customer addresses. [magento](https://docs.magento.com/m2/ee/user_guide/stores/attributes-customer-address-templates.html), [mageplaza](https://www.mageplaza.com/kb/how-change-customer-address-template-in-invoices-shipments-credit-memo-pdf-magento-2.html), [bsscommerce](https://bsscommerce.com/blog/Magento-2-change-customer-address-templates-Magento+2/), [mageguides](http://mageguides.com/modify-customer-address-templates-magento-2/), [rakeshjesadiya](https://www.rakeshjesadiya.com/how-to-convert-shipping-address-into-html-format-using-magento-2/), [firebearstudio](https://firebearstudio.com/blog/magento-2-get-default-billing-and-shipping-address-by-customer.html)
+
+
 
 #### 8.8 Customizing one-page checkout
 - Demonstrate an understanding of the container blocks provided in the Magento checkout to display additional information. [belvg](https://belvg.com/blog/change-one-page-checkout-multi-address-checkout-in-magento.html), [mageplaza](https://www.mageplaza.com/devdocs/magento-2-optimize-default-checkout-page.html) ,[inviqa](https://inviqa.com/blog/magento-2-tutorial-how-use-new-frontend-templating-system) ,[inchoo](https://inchoo.net/magento-2/display-cms-block-magento-2-checkout/)
