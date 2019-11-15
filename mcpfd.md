@@ -306,10 +306,7 @@ footer, quick search, store view (language) switcher, mini cart, breadcrumbs, an
 ### Magento 2 Certified Professional Front End Developer Exam
 Example Questions See the Answer Key following the questions for answers.
 
-#### Question 1: You are developing a German language theme for the Magento Marketplace named mytheme. In your Magento
-installation you have a third-party German language package installed.
-The theme “mytheme” already contains a mytheme/i18n/de_DE.csv file. The graphic designer wants you to rename the
-Add to Cart button to make the text shorter. Keeping upgradability in mind, where do you add the new string?
+#### Question 1: You are developing a German language theme for the Magento Marketplace named mytheme. In your Magento installation you have a third-party German language package installed. The theme “mytheme” already contains a mytheme/i18n/de_DE.csv file. The graphic designer wants you to rename the Add to Cart button to make the text shorter. Keeping upgradability in mind, where do you add the new string?
 
 - A. Override the Magento_Catalog/view/frontend/templates/product/view/addtocart.phtml template in
 mytheme and replace the string.
@@ -328,19 +325,17 @@ https://devdocs.magento.com/guides/v2.2/frontend-dev-guide/translations/theme_di
 Reference: Magento Dev Docs: Create a new storefront theme
 http://devdocs.magento.com/guides/v2.2/frontend-dev-guide/themes/theme-create.html
 
-#### Question 3: You need to add a custom block of HTML to the header of every page using a layout file in MyCompany/mytheme.
-Keeping upgradability in mind, how do you add the block?
-A. Put your customization in MyCompany/mytheme/layout/extend.xml
-B. Include <extend file="Magento_Theme::default.xml"> in your
-MyCompany/mytheme/Magento_Theme/layout/default.xml
-C. Put your customization in MyCompany/mytheme/Magento_Theme/layout/default.xml
-D. Keep track of your changes and apply them to Magento/Theme/layout/default.xml after upgrade
+#### Question 3: You need to add a custom block of HTML to the header of every page using a layout file in MyCompany/mytheme. Keeping upgradability in mind, how do you add the block?
+
+- A. Put your customization in MyCompany/mytheme/layout/extend.xml
+- B. Include <extend file="Magento_Theme::default.xml"> in your MyCompany/mytheme/Magento_Theme/layout/default.xml
+- C. Put your customization in MyCompany/mytheme/Magento_Theme/layout/default.xml
+- D. Keep track of your changes and apply them to Magento/Theme/layout/default.xml after upgrade
+
 Reference: Magento Dev Docs: Extend a layout
 http://devdocs.magento.com/guides/v2.2/frontend-dev-guide/layouts/layout-extend.html
 
-#### Question 4: A merchant asks you to add frontend validation to their newsletter form. You notice the form has the following attributes:
-<form class="form newsletter” novalidate id="newsletter-validate-detail">
-Which of the following choices will add frontend validation?
+#### Question 4: A merchant asks you to add frontend validation to their newsletter form. You notice the form has the following attributes: <form class="form newsletter” novalidate id="newsletter-validate-detail"> Which of the following choices will add frontend validation?
 
 - A. Add form_key input inside of form.
 - B. Remove the novalidate attribute from form.
@@ -351,13 +346,7 @@ Reference: Magento Dev Docs: Calling and initializing JavaScript
 https://devdocs.magento.com/guides/v2.2/javascript-dev-guide/javascript/js_init.html
 
 ### Answer Key
-12 Magento 2 Certified Professional Front End Developer Exam Study Guide © 2018 Magento, Inc.
-Answer Key
-Question 1
-Answer: B
-Question 2
-Answers: A, D, E
-Question 3
-Answer: C
-Question 4
-Answer: C
+- Question 1 Answer: B
+- Question 2 Answers: A, D, E
+- Question 3 Answer: C
+- Question 4 Answer: C
