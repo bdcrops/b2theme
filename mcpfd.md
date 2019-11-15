@@ -279,7 +279,9 @@ standard design elements on websites.
 - Demonstrate an understanding of formatting customer addresses.[]()
 
 #### 8.8 Customizing one-page checkout
-- Demonstrate an understanding of the container blocks provided in the Magento checkout to display additional information. []()
+- Demonstrate an understanding of the container blocks provided in the Magento checkout to display additional information. [belvg](https://belvg.com/blog/change-one-page-checkout-multi-address-checkout-in-magento.html), [mageplaza](https://www.mageplaza.com/devdocs/magento-2-optimize-default-checkout-page.html) ,[inviqa](https://inviqa.com/blog/magento-2-tutorial-how-use-new-frontend-templating-system) ,[inchoo](https://inchoo.net/magento-2/display-cms-block-magento-2-checkout/)
+
+
 
 #### 8.9 Understand customization of transactional email templates
 
