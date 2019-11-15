@@ -240,53 +240,68 @@ standard design elements on websites.
 
 ### <a name="8">8 Customize the Look and Feel of Specific Magento Pages 22%</a> [Go to Top](#top)
 #### 8.1 Utilize generic page elements
-- Demonstrate an understanding of customizing generic page elements that can be found on most pages: page header and
-footer, quick search, store view (language) switcher, mini cart, breadcrumbs, and sidebar menu.
+- Demonstrate an understanding of customizing generic page elements that can be found on most pages:
+   - page header and footer []()
+   - quick search []()
+   - store view (language) switcher  []()
+   - mini cart  []()
+   - breadcrumbs []()
+   - sidebar menu []()
 
 #### 8.2 Customizing product detail pages
-- How can design changes (page layout) be configured on product detail pages?
-- How can design changes be configured for specific product types?
-- How can you use custom layout updates for specific product pages?
-- Demonstrate an understanding of how to use the container blocks provided by Magento to display additional information on category pages.
+- How can design changes (page layout) be configured on product detail pages?[]()
+- How can design changes be configured for specific product types?[]()
+- How can you use custom layout updates for specific product pages? []()
+- Demonstrate an understanding of how to use the container blocks provided by Magento to display additional information on category pages. []()
 
 #### 8.3 Customizing category pages
-- How can design changes (page layout) be configured on category pages?
-- How can the layered navigation be configured?
-- Demonstrate an understanding of configuring design inheritance for category pages.
-- How can a CMS block be configured as a category landing page?
+- How can design changes (page layout) be configured on category pages? []()
+- How can the layered navigation be configured? []()
+- Demonstrate an understanding of configuring design inheritance for category pages.[]()
+- How can a CMS block be configured as a category landing page? []()
 
 #### 8.4 Customizing CMS pages
-- How can design changes (page layout) be configured on CMS pages?
-- Demonstrate an understanding of static variables in CMS blocks and pages.
-- Demonstrate an understanding of the use of CMS template directives (var, store, block, …).
+- How can design changes (page layout) be configured on CMS pages? []()
+- Demonstrate an understanding of static variables in CMS blocks and pages. []()
+- Demonstrate an understanding of the use of CMS template directives (var, store, block, …). []()
 
 #### 8.5 Customizing widgets
-- How is a widget instance created? Where can widgets be used?
-- How can a custom widget target be created?
-- Demonstrate an understanding of configuring a widget instance.
+- How is a widget instance created? Where can widgets be used? []()
+- How can a custom widget target be created? []()
+- Demonstrate an understanding of configuring a widget instance.[]()
 
 #### 8.6 Customizing CMS blocks
-- How do you create and insert CMS blocks?
-- Demonstrate an understanding of the use of CMS template directives (var,store, block, …).
+- How do you create and insert CMS blocks? []()
+- Demonstrate an understanding of the use of CMS template directives (var,store, block, …).[]()
 
 #### 8.7 Customizing customer account pages
-- How do you remove or add an item from the customer account navigation using layout XML?
-- Demonstrate an understanding of formatting customer addresses.
+- How do you remove or add an item from the customer account navigation using layout XML?[]()
+- Demonstrate an understanding of formatting customer addresses.[]()
 
 #### 8.8 Customizing one-page checkout
-- Demonstrate an understanding of the container blocks provided in the Magento checkout to display additional information.
+- Demonstrate an understanding of the container blocks provided in the Magento checkout to display additional information. []()
 
 #### 8.9 Understand customization of transactional email templates
-- How do you create and assign custom transactional email templates?
-- How do you use template variables available in all emails?
-- How do you access properties of variable objects (for example, var order.getCustomer.getName)?
-- How can you create a link to custom images from transactional email templates?
-- How do you create links to store pages in transactional email templates?
+
+- How do you create and assign custom transactional email templates? [magefan](https://magefan.com/blog/edit-magento2-transactional-email-template), [webkul](https://webkul.com/blog/magento2-create-custom-email-templates/), [magestore](https://www.magestore.com/magento-2-tutorial/how-to-configure-email-templates-in-magento-2/)
+
+
+
+- How do you use template variables available in all emails? [mageplaza](https://www.mageplaza.com/kb/how-to-customize-email-template-transactional-email-magento-2.html), [meetanshi](https://meetanshi.com/blog/list-of-default-variables-used-in-magento-2-email-templates/), [nwdthemes](https://nwdthemes.com/2018/05/18/how-to-manage-custom-email-templates-in-magento-2/), [magenticians](https://magenticians.com/customize-email-templates-magento-2/) , [amasty](https://amasty.com/knowledge-base/magento-2-email-templates.html), [stackexchange](https://magento.stackexchange.com/questions/282673/how-to-get-customer-id-customer-firstname-with-customer-account-edited-event)
+
+- How do you access properties of variable objects (for example, var order.getCustomer.getName)? [inchoo](https://inchoo.net/magento-2/cache/how-to-save-custom-data-cache-magento-2/),
+[stackexchange](https://magento.stackexchange.com/questions/282673/how-to-get-customer-id-customer-firstname-with-customer-account-edited-event) [chapagain](http://blog.chapagain.com.np/magento-2-get-order-info-order-item-payment-info-billing-address-shipping-address-by-order-id-increment-id/)
+
+
+- How can you create a link to custom images from transactional email templates? [devdocs](https://devdocs.magento.com/guides/v2.3/frontend-dev-guide/templates/template-email.html) ,
+- How do you create links to store pages in transactional email templates? [devdocs](https://devdocs.magento.com/guides/v2.3/frontend-dev-guide/templates/template-email.html) , [amasty](https://amasty.com/blog/create-edit-magento-2-email-templates/) ,[belvg](https://belvg.com/blog/customize-magento-2-email-template-settings.html), [themes](https://themes.email/magento/a-massive-guide-to-customizing-magento-emails.html), [firebearstudio](https://firebearstudio.com/blog/responsive-transactional-emails-for-magento-2-by-magetrend.html), [magestore](https://www.magestore.com/magento-2-tutorial/magento-2-introduction-about-email-templates/)
+
+
 
 ### <a name="9"> 9 Implement Internationalization of Frontend Pages 5%</a> [Go to Top](#top)
 
 #### 9.1 Create and change translations
-- Demonstrate an understanding of internationalization (i18n) in Magento. [devdocs](https://devdocs.magento.com/guides/v2.3/frontend-dev-guide/translations/translate_practice.html),[commerce](https://developers.front-commerce.com/docs/magento2/i18n.html),[nwdthemes](https://nwdthemes.com/2019/03/05/magento-2-language-package-explained/) 
+- Demonstrate an understanding of internationalization (i18n) in Magento. [devdocs](https://devdocs.magento.com/guides/v2.3/frontend-dev-guide/translations/translate_practice.html),[commerce](https://developers.front-commerce.com/docs/magento2/i18n.html),[nwdthemes](https://nwdthemes.com/2019/03/05/magento-2-language-package-explained/)
 
 - What is the role of the theme translation dictionary, language packs, and database translations? [appjetty](https://devdocs.magento.com/guides/v2.3/config-guide/cli/config-cli-subcommands-i18n.html), [appjetty](https://www.appjetty.com/blog/multi-language-store-magento2)
 
