@@ -266,9 +266,16 @@ standard design elements on websites.
 - Demonstrate an understanding of the use of CMS template directives (var, store, block, …). []()
 
 #### 8.5 Customizing widgets
-- How is a widget instance created? Where can widgets be used? []()
-- How can a custom widget target be created? []()
-- Demonstrate an understanding of configuring a widget instance.[]()
+- How is a widget instance created?  [toptal](https://www.toptal.com/magento/custom-widgets-in-magento-2) ,[magestore](https://www.magestore.com/magento-2-tutorial/create-widget-magento-2/), [magenticians](https://magenticians.com/create-widget-in-magento-2/), [hostadvice](https://hostadvice.com/how-to/how-to-create-a-custom-widget-in-magento-2/), [magehit](https://magehit.com/blog/how-to-create-magento-2-widget/)
+
+- Where can widgets be used? [classyllama](https://www.classyllama.com/blog/creating-a-custom-widget-in-magento-2), [meetanshi](https://meetanshi.com/blog/create-new-pages-blocks-widgets-using-magento-2-cms/), [devdocs](https://devdocs.magento.com/page-builder/docs/how-to/how-to-add-storefront-widget.html)
+
+- How can a custom widget target be created? [mageplaza](https://www.mageplaza.com/devdocs/magento-2-create-widget/) , [magenest](https://magenest.com/en/create-widget-magento-2/), [cloudways](https://www.cloudways.com/blog/magento-2-custom-widget/)
+
+
+- Demonstrate an understanding of configuring a widget instance. [magestore](https://www.magestore.com/magento-2-tutorial/how-to-create-magento-2-widget/), [meetanshi](https://meetanshi.com/blog/create-a-custom-widget-in-magento-2/), [rakeshjesadiya](https://www.rakeshjesadiya.com/magento-2-create-custom-category-widget/), [meganmosehauer](https://meganmosehauer.com/tutorial/magento-custom-widget/), [ubertheme](https://www.ubertheme.com/docs/introducing-magento-2-widgets/), [jason](https://jason.codes/2019/06/magento-2-create-jquery-ui-widget/)
+
+
 
 #### 8.6 Customizing CMS blocks  [stackexchange](https://magento.stackexchange.com/questions/250432/override-footer-content-with-custom-cms-blocks), [devdocs](https://devdocs.magento.com/guides/v2.3/frontend-dev-guide/layouts/xml-manage.html), [devdocs](https://devdocs.magento.com/guides/v2.3/ext-best-practices/tutorials/custom-widget.html), [magenticians](https://magenticians.com/magento-cms/)
 
