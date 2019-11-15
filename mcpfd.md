@@ -3,23 +3,23 @@
 This exam consists primarily of scenario-based questions in a multiple-choice format. Sample questions are included at the end of this guide.
 Test time: 90 minutes. Passing score: 63% or above, 60 questions. Available to take remotely or at a test center.
 
-## Exam topics and the percentage covered in the test.
-- 1. Create Themes 7%
-- 2. Magento Design Configuration System 7%
-- 3. Layout XML in Themes 18%
-- 4. Create and Customize Template Files 8%
-- 5. Static Asset Deployment 5%
-- 6. Customize and Create JavaScript 17%
-- 7. Use LESS/CSS to Customize Magento Look and Feel 8%
-- 8. Customize the Look and Feel of Specific Magento Pages 22%
-- 9. Implement Internationalization of Frontend Pages 5%
+## <a name="top"> Exam topics and the percentage covered in the test.</a>
+- [1. Create Themes 7%](#1)
+- [2. Magento Design Configuration System 7%](#2)
+- [3. Layout XML in Themes 18%](#3)
+- [4. Create and Customize Template Files 8%](#4)
+- [5. Static Asset Deployment 5%](#5)
+- [6. Customize and Create JavaScript 17%](#6)
+- [7. Use LESS/CSS to Customize Magento Look and Feel 8%](#7)
+- [8. Customize the Look and Feel of Specific Magento Pages 22%](#8)
+- [9. Implement Internationalization of Frontend Pages 5%](#9)
 - [10. Magento Development Process 3%](#10)
 
-##  <a name="top"> Topics and Objectives</a>
+##  Topics and Objectives
 
 ### 1 Create Themes 7%
 
-#### 1.1 Describe folder structure for local and Composer-based themes
+#### <a name="1">1.1 Describe folder structure for local and Composer-based themes</a>
 - In which folders can themes be located?
 - What determines where a theme is installed?
 - What is the difference if a theme is installed in one or the other of the possible directories?
@@ -36,7 +36,7 @@ Test time: 90 minutes. Passing score: 63% or above, 60 questions. Available to t
 Which design areas exist? What is the difference between them, and what do design areas have in common? What are
 design areas used for? How can design areas be utilized for custom themes or customizations?
 
-### 2 Magento Design Configuration System 7%
+### <a name="2">2 Magento Design Configuration System 7% </a>
 
 #### 2.1 Describe the relationship between themes
 - What type of relationships can exist between themes?
@@ -59,7 +59,7 @@ design areas used for? How can design areas be utilized for custom themes or cus
 - Configuration and > Schedule to configure the design fallback
 - What is the effect if both options are used at the same time?
 
-### 3 Layout XML in Themes 18%
+### <a name="3">3 Layout XML in Themes 18%</a>
 #### 3.1 Demonstrate knowledge of all layout XML directives and their arguments
 - What layout XML elements exist and what is their purpose?
 - What is the purpose of the attributes that are available on blocks and other elements?
@@ -112,7 +112,7 @@ design areas used for? How can design areas be utilized for custom themes or cus
 - How can values from etc/view.xml be used during theming?
 - How does theme inheritance influence values from etc/view.xml?
 
-### 4 Create and Customize Template Files 8%
+### <a name="4"> 4 Create and Customize Template Files 8%</a>
 
 #### 4.1 Assign a customized template file using layout XML
 - How can a customized template file be assigned to a block using layout XML?
@@ -137,7 +137,7 @@ design areas used for? How can design areas be utilized for custom themes or cus
 #### 4.5 Demonstrate ability to escape content rendered and template files
 - How can dynamic values be rendered securely in HTML, HTML attributes, JavaScript, and in URLs?
 
-### 5 Static Asset Deployment 5%
+### <a name="5">5 Static Asset Deployment 5%</a>
 #### 5.1 Describe the static asset deployment process for different file types
 - What commands must be executed to deploy static file types?
 - What are common mistakes during the process?
@@ -150,7 +150,7 @@ design areas used for? How can design areas be utilized for custom themes or cus
 - How are they different?
 - How do they influence the developer workflow during theming?
 
-### 6 Customize and Create JavaScript 17%
+### <a name="6">6 Customize and Create JavaScript 17%</a>
 #### 6.1 Include custom JavaScript on pages
 - What options exist to include custom JavaScript on a page?
 - What are the advantages and disadvantages of inline JavaScript?
@@ -202,7 +202,7 @@ design areas used for? How can design areas be utilized for custom themes or cus
 - Demonstrate an understanding of ES5 string literal templates like ${$.provider}.
 - What does $. Inside of ${ } resolve to?
 
-### 7 Use LESS/CSS to Customize the Magento Look and Feel 8%
+### <a name="7"> 7 Use LESS/CSS to Customize the Magento Look and Feel 8%</a>
 #### 7.1 Explain core concepts of LESS
 - Describe features like file import via @import directive, reusable code sections via mixins together with parameters and
 the usage of variables.
@@ -238,7 +238,7 @@ standard design elements on websites.
 - Where can UI library files be found? How can it be extended?
 - How can you change specific parts of the UI library?
 
-### 8 Customize the Look and Feel of Specific Magento Pages 22%
+### <a name="10">8 Customize the Look and Feel of Specific Magento Pages 22%</a>
 #### 8.1 Utilize generic page elements
 - Demonstrate an understanding of customizing generic page elements that can be found on most pages: page header and
 footer, quick search, store view (language) switcher, mini cart, breadcrumbs, and sidebar menu.
@@ -283,7 +283,7 @@ footer, quick search, store view (language) switcher, mini cart, breadcrumbs, an
 - How can you create a link to custom images from transactional email templates?
 - How do you create links to store pages in transactional email templates?
 
-### 9 Implement Internationalization of Frontend Pages 5% [Go to Top](#top)
+### <a name="9"> 9 Implement Internationalization of Frontend Pages 5%</a> [Go to Top](#top)
 
 #### 9.1 Create and change translations
 - Demonstrate an understanding of internationalization (i18n) in Magento.
