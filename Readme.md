@@ -12,7 +12,7 @@
 ![](docs/attributeSet.png)
 
 
-## Step By Step Tutorials
+## Theme Development Step By Step Tutorials
 
 - [app/design/frontend/Bdcrops/B2theme/registration.php](registration.php)
 
