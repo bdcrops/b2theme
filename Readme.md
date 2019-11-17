@@ -9,7 +9,9 @@
 
 
 
-![](docs/attributeSet.png)
+![](docs/b2themeAdmin.png)
+![](docs/b2themeAdminConf.png)
+![](docs/b2themeAdminList.png)
 
 
 ## Theme Development Step By Step Tutorials
