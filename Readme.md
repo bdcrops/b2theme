@@ -12,6 +12,7 @@
 ![](docs/b2themeAdmin.png)
 ![](docs/b2themeAdminConf.png)
 ![](docs/b2themeAdminList.png)
+![](docs/frontendTheme.png)
 
 
 ## Theme Development Step By Step Tutorials

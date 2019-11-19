@@ -20,27 +20,27 @@ Test time: 90 minutes. Passing score: 63% or above, 60 questions. Available to t
 ### 1 Create Themes 7%
 
 #### <a name="1">1.1 Describe folder structure for local and Composer-based themes</a>
- [1](https://devdocs.magento.com/guides/v2.3/frontend-dev-guide/themes/theme-structure.html), [1](https://www.mageplaza.com/devdocs/file-structure-magento-2.html), [1](https://meetanshi.com/blog/create-child-theme-in-magento-2/), [1](https://blog.templatetoaster.com/create-magento-theme/), [1](https://devdocs.magento.com/guides/v2.3/frontend-dev-guide/themes/theme-structure.html), [1](https://devdocs.magento.com/guides/v2.3/cloud/howtos/custom-theme.html), [1](https://github.com/MagePsycho/magento2-starter-theme), [1](https://meetanshi.com/blog/install-a-theme-in-magento-2/), [1](https://belvg.com/blog/another-certified-magento-2-professional-front-end-developer.html), [1](https://devdocs.magento.com/guides/v2.3/frontend-dev-guide/themes/theme-structure.html)
+ [devdocs](https://devdocs.magento.com/guides/v2.3/frontend-dev-guide/themes/theme-structure.html), [mageplaza](https://www.mageplaza.com/devdocs/file-structure-magento-2.html), [meetanshi](https://meetanshi.com/blog/create-child-theme-in-magento-2/), [templatetoaster](https://blog.templatetoaster.com/create-magento-theme/), [devdocs1](https://devdocs.magento.com/guides/v2.3/frontend-dev-guide/themes/theme-structure.html), [devdocs](https://devdocs.magento.com/guides/v2.3/cloud/howtos/custom-theme.html), [github](https://github.com/MagePsycho/magento2-starter-theme), [meetanshi](https://meetanshi.com/blog/install-a-theme-in-magento-2/), [belvg](https://belvg.com/blog/another-certified-magento-2-professional-front-end-developer.html), [devdocs](https://devdocs.magento.com/guides/v2.3/frontend-dev-guide/themes/theme-structure.html)
 
 - In which folders can themes be located?
 - What determines where a theme is installed?
 - What is the difference if a theme is installed in one or the other of the possible directories?
 #### 1.2 Describe the different folders of a theme
-[1](https://medium.com/the-andela-way/understanding-magento-2-folder-structure-704733be3d8b), [1](https://belvg.com/blog/directory-structure-and-locating-different-files-in-magento2.html)
+[medium](https://medium.com/the-andela-way/understanding-magento-2-folder-structure-704733be3d8b), [belvg](https://belvg.com/blog/directory-structure-and-locating-different-files-in-magento2.html)
 
 
 - Which folders can exist within a theme?
 - Which folders are optional and which are required?
 - What is the purpose of each of the folders?
 #### 1.3 Describe the different files of a theme
-[1](https://devdocs.magento.com/guides/v2.3/frontend-dev-guide/themes/theme-structure.html), [1](https://bssthemes.com/blog/magento-2-luma-theme-location/), [1](https://amasty.com/knowledge-base/magento-2-file-and-folder-structure.html), [1](https://www.cloudways.com/blog/magento-folder-structure/)
+[devdocs](https://devdocs.magento.com/guides/v2.3/frontend-dev-guide/themes/theme-structure.html), [bssthemes](https://bssthemes.com/blog/magento-2-luma-theme-location/), [amasty](https://amasty.com/knowledge-base/magento-2-file-and-folder-structure.html), [cloudways](https://www.cloudways.com/blog/magento-folder-structure/)
 
 - Which files are required to be present in a theme?
 - Which files are optional?
 - What is the purpose of each of the different file types?
 
 #### 1.4 Understand the usage of Magento areas: adminhtml/base/frontend
-[1](https://belvg.com/blog/magento-2-areas-adminhtml-base-and-frontend.html), [1](https://magento.stackexchange.com/questions/96719/module-view-base-folder-in-magento2), [1](https://alanstorm.com/magento_2_adding_frontend_files_to_your_module/), [1](https://devdocs.magento.com/guides/v2.3/frontend-dev-guide/themes/theme-structure.html), [1](https://devdocs.magento.com/guides/v2.3/frontend-dev-guide/themes/debug-theme.html), [1](https://www.mageplaza.com/devdocs/file-structure-magento-2.html), [1](https://www.dckap.com/blog/magento-2-theme-structure/), [1](https://belvg.com/blog/utilizing-themes-and-the-template-structure-in-magento-2.htm)
+[belvg](https://belvg.com/blog/magento-2-areas-adminhtml-base-and-frontend.html), [stackexchange](https://magento.stackexchange.com/questions/96719/module-view-base-folder-in-magento2),[alanstorm](https://alanstorm.com/magento_2_adding_frontend_files_to_your_module/), [devdocs](https://devdocs.magento.com/guides/v2.3/frontend-dev-guide/themes/theme-structure.html), [devdocs2](https://devdocs.magento.com/guides/v2.3/frontend-dev-guide/themes/debug-theme.html), [mageplaza](https://www.mageplaza.com/devdocs/file-structure-magento-2.html), [dckap](https://www.dckap.com/blog/magento-2-theme-structure/), [belvg](https://belvg.com/blog/utilizing-themes-and-the-template-structure-in-magento-2.htm)
 
 - Which design areas exist?
 - What is the difference between them, and what do design areas have in common?
@@ -51,7 +51,7 @@ Test time: 90 minutes. Passing score: 63% or above, 60 questions. Available to t
 
 #### 2.1 Describe the relationship between themes
 
-[1](https://devdocs.magento.com/guides/v2.3/frontend-dev-guide/themes/theme-inherit.html), [1](https://belvg.com/blog/themes-in-magento-2-creation-inheritance-and-hierarchy.html), [1](https://magento.stackexchange.com/questions/92181/magento-2-theme-type-0physical-1virtual-2staging-when-to-use), [1](https://www.icecubedigital.com/blog/magento-2-theme-development-customization-step-by-step-guide/), [1](https://docs.swissuplabs.com/m2/argento/customization/custom-theme/)
+[devdocs](https://devdocs.magento.com/guides/v2.3/frontend-dev-guide/themes/theme-inherit.html), [belvg](https://belvg.com/blog/themes-in-magento-2-creation-inheritance-and-hierarchy.html), [stackexchange](https://magento.stackexchange.com/questions/92181/magento-2-theme-type-0physical-1virtual-2staging-when-to-use), [icecubedigital](https://www.icecubedigital.com/blog/magento-2-theme-development-customization-step-by-step-guide/), [swissuplabs](https://docs.swissuplabs.com/m2/argento/customization/custom-theme/)
 
 - What type of relationships can exist between themes?
 - What is the difference between a parent theme and a child theme?
@@ -59,14 +59,14 @@ Test time: 90 minutes. Passing score: 63% or above, 60 questions. Available to t
 - How is that taken into account when creating a custom theme or customizing an existing theme?
 
 #### 2.2 Configure the design system using the options found in the Admin UI under
-[1](https://support.magento.com/hc/en-us/articles/360005032794-Customize-design-configuration-in-Magento-Admin), [1](https://devdocs.magento.com/guides/v2.3/install-gde/install/cli/install-cli-subcommands-store.html), [1](https://belvg.com/blog/plus-one-magento-2-professional-front-end-developer.html), [1](https://inviqa.com/blog/magento-2-tutorial-how-use-new-frontend-templating-system)
+[magento](https://support.magento.com/hc/en-us/articles/360005032794-Customize-design-configuration-in-Magento-Admin), [devdocs](https://devdocs.magento.com/guides/v2.3/install-gde/install/cli/install-cli-subcommands-store.html), [belvg](https://belvg.com/blog/plus-one-magento-2-professional-front-end-developer.html), [inviqa](https://inviqa.com/blog/magento-2-tutorial-how-use-new-frontend-templating-system)
 
 - Content > Design > Configuration
 - How do the configuration settings affect theme rendering? What happens if a theme is added or removed?
 - What common mistakes can be made in regard to these settings?
 
 #### 2.3 Apply a temporary theme configuration
-[1](https://belvg.com/blog/magento-fallback-configuration-default-and-specific-themes-packages-design-exceptions-temporary-theme-configuration.html), [1](https://devdocs.magento.com/guides/v2.3/config-guide/cli/config-cli-subcommands-config-mgmt-set.html), [1](https://github.com/magento-notes/magento2-exam-notes/blob/master/3. Customizing the Magento UI/1. Demonstrate ability to utilize themes and the template structure.md), [1](https://github.com/magento-notes/magento2-exam-notes/tree/master/3. Customizing the Magento UI), [1](https://amasty.com/knowledge-base/magento-2-admin-panel-tutorial.html)
+[belvg](https://belvg.com/blog/magento-fallback-configuration-default-and-specific-themes-packages-design-exceptions-temporary-theme-configuration.html), [devdocs](https://devdocs.magento.com/guides/v2.3/config-guide/cli/config-cli-subcommands-config-mgmt-set.html), [github](https://github.com/magento-notes/magento2-exam-notes/blob/master/), [github](https://github.com/magento-notes/magento2-exam-notes/tree/master/3. Customizing the Magento UI), [amasty](https://amasty.com/knowledge-base/magento-2-admin-panel-tutorial.html)
 
 -  temporary theme configuration to a store view using the options found in the Admin UI under Content > Design > Schedule?
 - What is the purpose of this feature? How does it influence rendering if a design change is scheduled?
@@ -76,13 +76,13 @@ Test time: 90 minutes. Passing score: 63% or above, 60 questions. Available to t
 #### 2.4 Understand the differences and similarities between Content > Design >
 - Content > Design >Configuration and > Schedule to configure the design fallback
 - What is the effect if both options are used at the same time?
-[1](https://docs.magento.com/m2/ce/user_guide/design/configuration.html), [1](https://docs.magento.com/m2/ce/user_guide/design/schedule.html), [1](https://devdocs.magento.com/guides/v2.3/frontend-dev-guide/themes/theme-apply.html), [1](https://www.mageplaza.com/kb/how-to-schedule-change-design-magento-2.html), [1](https://www.mageplaza.com/kb/configure-design-magento-2.html), [1](https://magento.stackexchange.com/questions/153234/content-design-config-shows-no-records-on-fresh-2-1-3-install/247231), [1](https://belvg.com/blog/configuring-site-design-in-magento-2-admin-panel.html), [1](https://belvg.com/blog/how-to-use-the-magento-design-fallback-system.html), [1](https://www.magestore.com/magento-2-tutorial/general-configuration-magento-2/), [1](https://stackoverflow.com/questions/45862997/magento-2-1-4-in-admin-panel-content-design-configuration-page-no-data-i)
+[docs-ce](https://docs.magento.com/m2/ce/user_guide/design/configuration.html), [docs-ce](https://docs.magento.com/m2/ce/user_guide/design/schedule.html), [devdocs](https://devdocs.magento.com/guides/v2.3/frontend-dev-guide/themes/theme-apply.html), [mageplaza](https://www.mageplaza.com/kb/how-to-schedule-change-design-magento-2.html), [mageplaza](https://www.mageplaza.com/kb/configure-design-magento-2.html), [stackexchange](https://magento.stackexchange.com/questions/153234/content-design-config-shows-no-records-on-fresh-2-1-3-install/247231), [belvg](https://belvg.com/blog/configuring-site-design-in-magento-2-admin-panel.html), [belvg2](https://belvg.com/blog/how-to-use-the-magento-design-fallback-system.html), [magestore](https://www.magestore.com/magento-2-tutorial/general-configuration-magento-2/), [stackoverflow](https://stackoverflow.com/questions/45862997/magento-2-1-4-in-admin-panel-content-design-configuration-page-no-data-i)
 
 
 ### <a name="3">3 Layout XML in Themes 18%</a> [Go to Top](#top)
 
 #### 3.1 Demonstrate knowledge of all layout XML directives and their arguments
- [1](https://devdocs.magento.com/guides/v2.3/frontend-dev-guide/layouts/xml-instructions.html), [1](https://belvg.com/blog/using-layout-and-xml-schema-in-magento-2.html), [1](http://www.danielnavarroymas.com/magento-certification-describe-directives-of-magento-layout-xml/), [1](https://alanstorm.com/magento-2-layout-arguments-vs-action-methods/), [1](https://gordonlesti.com/magento-2-email-template-layout-directives/)
+ [devdocs](https://devdocs.magento.com/guides/v2.3/frontend-dev-guide/layouts/xml-instructions.html), [belvg](https://belvg.com/blog/using-layout-and-xml-schema-in-magento-2.html), [danielnavarroymas](http://www.danielnavarroymas.com/magento-certification-describe-directives-of-magento-layout-xml/), [alanstorm](https://alanstorm.com/magento-2-layout-arguments-vs-action-methods/), [gordonlesti](https://gordonlesti.com/magento-2-email-template-layout-directives/)
 
 - What layout XML elements exist and what is their purpose?
 - What is the purpose of the attributes that are available on blocks and other elements?
@@ -97,7 +97,7 @@ Test time: 90 minutes. Passing score: 63% or above, 60 questions. Available to t
 - How can the root page layout be specified for all pages and for specific pages?
 
 #### 3.3 Demonstrate understanding of layout handles and corresponding files
-[1](https://devdocs.magento.com/guides/v2.3/frontend-dev-guide/layouts/layout-overview.html), [1](https://belvg.com/blog/module-layout-handles-in-magento-2.html), [1](https://magento.stackexchange.com/questions/106134/magento-2-how-to-use-the-layout-handle-customer-logged-in), [1](https://www.rakeshjesadiya.com/list-of-layout-xml-for-a-current-page-magento-2/), [1](https://www.knightdale-computer-repair.com/coding/magento-2-targeting-a-specific-cms-page-using-layout-xml/), [1](https://www.emiprotechnologies.com/technical_notes/magento-technical-notes-60/post/different-product-layout-based-on-product-custom-attribute-in-magento-2-630), [1](https://alanstorm.com/magento_2_javascript_css_layout_woes/), [1](https://meetanshi.com/blog/update-layout-using-observer-in-magento-2/), [1](https://www.scommerce-mage.com/blog/create-your-own-page-with-your-own-layout-and-template-files-in-magento.html)
+[devdocs](https://devdocs.magento.com/guides/v2.3/frontend-dev-guide/layouts/layout-overview.html), [belvg](https://belvg.com/blog/module-layout-handles-in-magento-2.html), [stackexchange](https://magento.stackexchange.com/questions/106134/magento-2-how-to-use-the-layout-handle-customer-logged-in), [rakeshjesadiya](https://www.rakeshjesadiya.com/list-of-layout-xml-for-a-current-page-magento-2/), [knightdale](https://www.knightdale-computer-repair.com/coding/magento-2-targeting-a-specific-cms-page-using-layout-xml/), [emiprotechnologies](https://www.emiprotechnologies.com/technical_notes/magento-technical-notes-60/post/different-product-layout-based-on-product-custom-attribute-in-magento-2-630), [alanstorm](https://alanstorm.com/magento_2_javascript_css_layout_woes/), [meetanshi](https://meetanshi.com/blog/update-layout-using-observer-in-magento-2/), [scommerce](https://www.scommerce-mage.com/blog/create-your-own-page-with-your-own-layout-and-template-files-in-magento.html)
 
 - How can the available layout handles for a given page be determined?
 - How do you add a new layout handle?
@@ -106,7 +106,7 @@ Test time: 90 minutes. Passing score: 63% or above, 60 questions. Available to t
 - How can layout handles be used during theme customization?
 
 #### 3.4 Understand the differences between containers and blocks
-[1](https://belvg.com/blog/understanding-containers-blocks-and-actions-in-magento-2-layout-structure.html), [1](https://devdocs.magento.com/guides/v2.3/frontend-dev-guide/layouts/layout-overview.html), [1](https://magento.stackexchange.com/questions/256478/what-is-the-functional-difference-of-block-container-in-magento-2), [1](https://alankent.me/2015/01/24/magento-2-containers-and-blocks/), [1](https://www.awaredigital.co.uk/blog/remove-blocks-or-containers-from-a-layout-in-magento-2/), [1](https://www.ostraining.com/blog/magento/blocks-widgets/), [1](https://webkul.com/blog/remove-blocks-containers-layout-magento2/)
+[belvg](https://belvg.com/blog/understanding-containers-blocks-and-actions-in-magento-2-layout-structure.html), [devdocs](https://devdocs.magento.com/guides/v2.3/frontend-dev-guide/layouts/layout-overview.html), [stackexchange](https://magento.stackexchange.com/questions/256478/what-is-the-functional-difference-of-block-container-in-magento-2), [alankent](https://alankent.me/2015/01/24/magento-2-containers-and-blocks/), [awaredigital](https://www.awaredigital.co.uk/blog/remove-blocks-or-containers-from-a-layout-in-magento-2/), [ostraining](https://www.ostraining.com/blog/magento/blocks-widgets/), [webkul](https://webkul.com/blog/remove-blocks-containers-layout-magento2/)
 
 - What is the purpose of blocks? What is the purpose of containers?
 - How can containers be used in theming?
@@ -116,7 +116,7 @@ Test time: 90 minutes. Passing score: 63% or above, 60 questions. Available to t
 
 #### 3.5 Describe layout XML override technique
 
-[1](https://devdocs.magento.com/guides/v2.3/frontend-dev-guide/layouts/layout-override.html), [1](https://magento.stackexchange.com/questions/140626/how-can-i-override-this-vendor-layout-file-with-my-custom-layout-file-in-magento), [1](https://magecomp.com/blog/override-layout-xml-block-magento-2/), [1](https://inchoo.net/magento-2/override-magento-2-layout-product-page-example/), [1](https://www.classyllama.com/blog/template-override-m2), [1](https://belvg.com/blog/overriding-layout-files-in-magento-2.html), [1](https://magenticians.com/magento-2-override-block/), [1](https://store.magenest.com/blog/override-magento-2-core-layout/), [1](https://www.mageplaza.com/devdocs/overriding-native-template-file-magento-2.html)
+[devdocs](https://devdocs.magento.com/guides/v2.3/frontend-dev-guide/layouts/layout-override.html), [stackexchange](https://magento.stackexchange.com/questions/140626/how-can-i-override-this-vendor-layout-file-with-my-custom-layout-file-in-magento), [magecomp](https://magecomp.com/blog/override-layout-xml-block-magento-2/), [inchoo](https://inchoo.net/magento-2/override-magento-2-layout-product-page-example/), [classyllama](https://www.classyllama.com/blog/template-override-m2), [belvg](https://belvg.com/blog/overriding-layout-files-in-magento-2.html), [magenticians](https://magenticians.com/magento-2-override-block/), [magenest](https://store.magenest.com/blog/override-magento-2-core-layout/), [mageplaza](https://www.mageplaza.com/devdocs/overriding-native-template-file-magento-2.html)
 
 - How can layout XML be overridden?
 - How can layout overriding be used in theming?
@@ -124,7 +124,7 @@ Test time: 90 minutes. Passing score: 63% or above, 60 questions. Available to t
 - What is the effect of layout overrides on compatibility?
 
 #### 3.6 Understand layout merging
-[1](https://belvg.com/blog/magento-2-certification-layout-merging-overview.html), [1](https://devdocs.magento.com/guides/v2.3/frontend-dev-guide/layouts/layout-overview.html), [1](https://magento-quickies.tumblr.com/post/168961542080/layout-xml-merging-in-magento-2), [1](https://www.magentoextensions.org/documentation/class_magento_1_1_framework_1_1_view_1_1_model_1_1_layout_1_1_merge.html), [1](https://mirasvit.com/knowledge-base/how-to-combine-javascript-files-in-magento-2.html), [1](https://stackoverflow.com/questions/47894566/magento-2-element-referencecontainer-attribute-after-the-attribute-after)
+[belvg](https://belvg.com/blog/magento-2-certification-layout-merging-overview.html), [devdocs](https://devdocs.magento.com/guides/v2.3/frontend-dev-guide/layouts/layout-overview.html), [magento](https://magento-quickies.tumblr.com/post/168961542080/layout-xml-merging-in-magento-2), [magentoextensions](https://www.magentoextensions.org/documentation/class_magento_1_1_framework_1_1_view_1_1_model_1_1_layout_1_1_merge.html), [mirasvit](https://mirasvit.com/knowledge-base/how-to-combine-javascript-files-in-magento-2.html), [stackoverflow](https://stackoverflow.com/questions/47894566/magento-2-element-referencecontainer-attribute-after-the-attribute-after)
 
 - What is layout merging?
 - How do design areas influence merging?
@@ -132,7 +132,7 @@ Test time: 90 minutes. Passing score: 63% or above, 60 questions. Available to t
 - What are additive changes and what are overriding changes during layout merging?
 
 #### 3.7 Understand processing order of layout handles and other directives
-[1](https://magento.stackexchange.com/questions/251318/magento-2-understand-processing-order-of-layout-handles-and-other-directives), [1](https://ipfs-sec.stackexchange.cloudflare-ipfs.com/magento/A/question/251318/magento-2-understand-processing-order-of-layout-handles-and-other-directives.html), [1](https://belvg.com/blog/magento-2-certification-layout-merging-overview.html), [1](https://belvg.com/blog/using-layout-xml-to-customize-a-magento-theme.html), [1](https://alanstorm.com/layout-xml-merging-in-magento-2/), [1](https://inviqa.com/blog/magento-2-tutorial-what-is-new-front-end-developers)
+[stackexchange](https://magento.stackexchange.com/questions/251318/magento-2-understand-processing-order-of-layout-handles-and-other-directives), [ipfs](https://ipfs-sec.stackexchange.cloudflare-ipfs.com/magento/A/question/251318/magento-2-understand-processing-order-of-layout-handles-and-other-directives.html), [belvg](https://belvg.com/blog/magento-2-certification-layout-merging-overview.html), [belvg2](https://belvg.com/blog/using-layout-xml-to-customize-a-magento-theme.html), [alanstorm](https://alanstorm.com/layout-xml-merging-in-magento-2/), [inviqa](https://inviqa.com/blog/magento-2-tutorial-what-is-new-front-end-developers)
 
 - In what order are layout handles processed?
 - In what order is layout XML merged within the same handle?
@@ -140,14 +140,14 @@ Test time: 90 minutes. Passing score: 63% or above, 60 questions. Available to t
 - What are common problems arising from the merge order of layout declarations?
 
 #### 3.8 Set values on block instances using layout XML arguments
-[1](https://magento.stackexchange.com/questions/112025/magento-2-passing-arguments-in-layout-xml-to-block), [1](https://belvg.com/blog/layout-xml-directives-and-their-arguments-in-magento-2.html), [1](https://belvg.com/blog/how-to-use-blocks-in-magento-2-development.html), [1](https://jamersan.com/super-guide-theming-magento-2-part-3-3/), [1](https://mage2.pro/t/topic/243), [1](https://magecomp.com/blog/create-dynamic-generated-field-system-configuration-magento-2/)
+[stackexchange](https://magento.stackexchange.com/questions/112025/magento-2-passing-arguments-in-layout-xml-to-block), [belvg](https://belvg.com/blog/layout-xml-directives-and-their-arguments-in-magento-2.html), [belvg](https://belvg.com/blog/how-to-use-blocks-in-magento-2-development.html), [jamersan](https://jamersan.com/super-guide-theming-magento-2-part-3-3/), [mage2](https://mage2.pro/t/topic/243), [magecomp](https://magecomp.com/blog/create-dynamic-generated-field-system-configuration-magento-2/)
 
 - How can arguments be set on blocks?
 - Which data types are available?
 - What are common arguments for blocks?
 
 #### 3.9 Customize a theme's appearance with etc/view.xml
-[1](https://dev.to/asrar7787/magento-2-theme-what-is-etc-view-xml-3hki), [1](https://devdocs.magento.com/guides/v2.3/frontend-dev-guide/themes/theme-images.html), [1](https://devdocs.magento.com/guides/v2.3/frontend-dev-guide/themes/theme-inherit.html), [1](https://www.magestore.com/magento-2-tutorial/magento-2-theme-create-sample-custome-theme/), [1](https://www.bizspice.com/blog/post/how-to-build-a-custom-theme-in-magento-2-part-1)
+[dev](https://dev.to/asrar7787/magento-2-theme-what-is-etc-view-xml-3hki), [devdocs](https://devdocs.magento.com/guides/v2.3/frontend-dev-guide/themes/theme-images.html), [devdocs](https://devdocs.magento.com/guides/v2.3/frontend-dev-guide/themes/theme-inherit.html), [magestore](https://www.magestore.com/magento-2-tutorial/magento-2-theme-create-sample-custome-theme/), [bizspice](https://www.bizspice.com/blog/post/how-to-build-a-custom-theme-in-magento-2-part-1)
 
 - What is the etc/view.xml file used for?
 - How can it be used to customize a theme?
@@ -157,21 +157,21 @@ Test time: 90 minutes. Passing score: 63% or above, 60 questions. Available to t
 ### <a name="4"> 4 Create and Customize Template Files 8%</a> [Go to Top](#top)
 
 #### 4.1 Assign a customized template file using layout XML
-[1](https://devdocs.magento.com/guides/v2.3/frontend-dev-guide/templates/template-walkthrough.html), [1](https://devdocs.magento.com/guides/v2.3/frontend-dev-guide/themes/theme-apply.html), [1](https://www.cloudways.com/blog/magento-2-layouts-blocks-templates/), [1](https://blog.qaisarsatti.com/magento_2/assign-custom-theme-programmatically-to-store-in-magento-2/)
+[devdocs](https://devdocs.magento.com/guides/v2.3/frontend-dev-guide/templates/template-walkthrough.html), [devdocs](https://devdocs.magento.com/guides/v2.3/frontend-dev-guide/themes/theme-apply.html), [cloudways](https://www.cloudways.com/blog/magento-2-layouts-blocks-templates/), [qaisarsatti](https://blog.qaisarsatti.com/magento_2/assign-custom-theme-programmatically-to-store-in-magento-2/)
 
 - How can a customized template file be assigned to a block using layout XML?
 - How does overriding a template affect upgradability?
 - What precautions can be taken to ease future upgrades when customizing templates?
 
 #### 4.2 Override a native template file with a customized template file, using the design fallback
-[1](https://www.mageplaza.com/devdocs/overriding-native-template-file-magento-2.html), [1](https://www.magestore.com/magento-2-tutorial/override-template-file-magento-2/)
+[mageplaza](https://www.mageplaza.com/devdocs/overriding-native-template-file-magento-2.html), [magestore](https://www.magestore.com/magento-2-tutorial/override-template-file-magento-2/)
 
 - How can the design fallback be used to render customized templates?
 - How does that influence upgradability?
 - How can you determine which template a block renders?
 
 #### 4.3 Describe conventions used in template files
-[1](https://devdocs.magento.com/guides/v2.3/frontend-dev-guide/templates/template-override.html), [1](https://devdocs.magento.com/guides/v2.3/frontend-dev-guide/conventions.html), [1](https://devdocs.magento.com/guides/v2.3/frontend-dev-guide/templates/template-walkthrough.html), [1](https://belvg.com/blog/magento-2-directory-module-theme-catalogue-structure.html), [1](https://www.mageants.com/blog/how-to-create-custom-theme-in-magento-2.html)
+[devdocs](https://devdocs.magento.com/guides/v2.3/frontend-dev-guide/templates/template-override.html), [devdocs](https://devdocs.magento.com/guides/v2.3/frontend-dev-guide/conventions.html), [devdocs](https://devdocs.magento.com/guides/v2.3/frontend-dev-guide/templates/template-walkthrough.html), [belvg](https://belvg.com/blog/magento-2-directory-module-theme-catalogue-structure.html), [mageants](https://www.mageants.com/blog/how-to-create-custom-theme-in-magento-2.html)
 
 - What conventions are used in PHP templates?
 - Why aren’t the common PHP loop and block constructs used?
@@ -181,31 +181,31 @@ Test time: 90 minutes. Passing score: 63% or above, 60 questions. Available to t
 - How can a group of child blocks be rendered?
 
 #### 4.4 Render values of arguments set via layout XML
-[1](https://devdocs.magento.com/guides/v2.3/frontend-dev-guide/layouts/xml-instructions.html), [1](https://www.pixiemedia.co.uk/blog/setting-getting-block-variables-in-magento2.html)
+[devdocs](https://devdocs.magento.com/guides/v2.3/frontend-dev-guide/layouts/xml-instructions.html), [pixiemedia](https://www.pixiemedia.co.uk/blog/setting-getting-block-variables-in-magento2.html)
 
 - How can values set on a block in layout XML be accessed and rendered in a template?
 
 #### 4.5 Demonstrate ability to escape content rendered and template files
 
-[1](https://devdocs.magento.com/page-builder/docs/reference/configurations.html), [1](https://belvg.com/blog/another-certified-magento-2-professional-front-end-developer.html]), [1](https://kinsta.com/blog/eliminate-render-blocking-javascript-css/), [1](https://magento.stackexchange.com/questions/251399/how-to-render-html-in-x-magento-template), [1](https://devdocs.magento.com/guides/v2.3/ui_comp_guide/components/ui-htmlcontent.html), [1](https://devdocs.magento.com/page-builder/docs/create-custom-content-type/step-2-add-templates.html), [1](https://stackoverflow.com/questions/55404227/how-to-render-html-tags-in-admin-product-grid-magento2-3), [1](http://www.codextblog.com/magento-2/how-to-render-an-html-using-an-ajax-call-in-magento-2-module/)
+[devdocs](https://devdocs.magento.com/page-builder/docs/reference/configurations.html), [belvg](https://belvg.com/blog/another-certified-magento-2-professional-front-end-developer.html]), [kinsta](https://kinsta.com/blog/eliminate-render-blocking-javascript-css/), [stackexchange](https://magento.stackexchange.com/questions/251399/how-to-render-html-in-x-magento-template), [devdocs](https://devdocs.magento.com/guides/v2.3/ui_comp_guide/components/ui-htmlcontent.html), [devdocs](https://devdocs.magento.com/page-builder/docs/create-custom-content-type/step-2-add-templates.html), [stackoverflow](https://stackoverflow.com/questions/55404227/how-to-render-html-tags-in-admin-product-grid-magento2-3), [codextblog](http://www.codextblog.com/magento-2/how-to-render-an-html-using-an-ajax-call-in-magento-2-module/)
 
 - How can dynamic values be rendered securely in HTML, HTML attributes, JavaScript, and in URLs?
 
 ### <a name="5">5 Static Asset Deployment 5%</a> [Go to Top](#top)
 
 #### 5.1 Describe the static asset deployment process for different file types
-[1](https://devdocs.magento.com/guides/v2.3/config-guide/cli/config-cli-subcommands-static-view.html), [1](https://devdocs.magento.com/guides/v2.3/config-guide/cli/config-cli-subcommands-static-deploy-strategies.html), [1](https://amasty.com/knowledge-base/magento-2-deploy-static-content.html), [1](https://github.com/magento/magento2/issues/22880), [1](https://magento.stackexchange.com/questions/255428/admin-url-css-and-js-not-working)
+[devdocs](https://devdocs.magento.com/guides/v2.3/config-guide/cli/config-cli-subcommands-static-view.html), [devdocs2](https://devdocs.magento.com/guides/v2.3/config-guide/cli/config-cli-subcommands-static-deploy-strategies.html), [amasty](https://amasty.com/knowledge-base/magento-2-deploy-static-content.html), [github](https://github.com/magento/magento2/issues/22880), [stackexchange](https://magento.stackexchange.com/questions/255428/admin-url-css-and-js-not-working)
 
 - What commands must be executed to deploy static file types?
 - What are common mistakes during the process?
 
 #### 5.2 Describe the effect of deploy modes on frontend development
-[1](https://devdocs.magento.com/guides/v2.3/config-guide/bootstrap/magento-modes.html), [1](https://amasty.com/knowledge-base/magento-2-modes-set-developer-production-mode.html), [1](https://digitalstartup.co.uk/t/translating-magento-2-installing-custom-language-pack-s/242), [1](https://dzone.com/articles/5-essential-magento-performance-tips-most-develope), [1](https://www.goivvy.com/blog/speed-up-magento)
+[devdocs](https://devdocs.magento.com/guides/v2.3/config-guide/bootstrap/magento-modes.html), [amasty](https://amasty.com/knowledge-base/magento-2-modes-set-developer-production-mode.html), [digitalstartup](https://digitalstartup.co.uk/t/translating-magento-2-installing-custom-language-pack-s/242), [dzone](https://dzone.com/articles/5-essential-magento-performance-tips-most-develope), [goivvy](https://www.goivvy.com/blog/speed-up-magento)
 
 - What are the differences between development and production mode in regard to frontend development?
 
 #### 5.3 Demonstrate your understanding of LESS > CSS deployment and its restrictions in development
-[1](https://devdocs.magento.com/guides/v2.3/frontend-dev-guide/css-topics/css-preprocess.html), [1](https://belvg.com/blog/how-to-deploy-static-files-in-magento-2.html), [1](https://magenticians.com/deploy-magento-2-static-content/), [1](https://magento.stackexchange.com/questions/291299/static-content-deploy-issue-for-magento-2-3-2), [1](https://meetanshi.com/blog/magento-2-static-content-deploy/), [1](https://support.weltpixel.com/hc/en-us/articles/360015798914-How-LESS-CSS-Generation-works-in-Pearl-Theme-Magento-developer-corner-), [1](https://astrio.net/blog/magento2-frontend-speedup1/)
+[devdocs](https://devdocs.magento.com/guides/v2.3/frontend-dev-guide/css-topics/css-preprocess.html), [belvg](https://belvg.com/blog/how-to-deploy-static-files-in-magento-2.html), [magenticians](https://magenticians.com/deploy-magento-2-static-content/), [stackexchange](https://magento.stackexchange.com/questions/291299/static-content-deploy-issue-for-magento-2-3-2), [meetanshi](https://meetanshi.com/blog/magento-2-static-content-deploy/), [weltpixel](https://support.weltpixel.com/hc/en-us/articles/360015798914-How-LESS-CSS-Generation-works-in-Pearl-Theme-Magento-developer-corner-), [astrio](https://astrio.net/blog/magento2-frontend-speedup1/)
 
 - Which LESS compilation options are available in Magento?
 - How are they different?
@@ -214,7 +214,7 @@ Test time: 90 minutes. Passing score: 63% or above, 60 questions. Available to t
 ### <a name="6">6 Customize and Create JavaScript 17%</a> [Go to Top](#top)
 
 #### 6.1 Include custom JavaScript on pages
-[1](https://belvg.com/blog/how-to-include-custom-javascript-on-pages-in-magento-2.html), [1](https://devdocs.magento.com/guides/v2.3/javascript-dev-guide/javascript/custom_js.html), [1](https://magento.stackexchange.com/questions/266477/how-add-custom-js-and-css-to-registration-page-in-magento-2?noredirect=1&lq=1), [1](https://www.choosepizzi.net/magento-2-create-a-custom-module-for-add-custom-js-css/), [1](https://jamersan.com/introduction-javascript-magento-2/), [1](https://amasty.com/blog/lazyload-images-and-more-swift-magento-2/), [1](https://support.weltpixel.com/hc/en-us/articles/115000705293-How-to-customize-css-xml-phtml-js-files-in-Magento-2-examples-Tutorial-), [1](https://www.mageplaza.com/devdocs/javascript-bundling-group-combine-js-files-magento-2.html), [1](https://magentodeveloper.in/add-popup-to-product-view-page-magento2.html), [1](https://magecomp.com/blog/add-new-custom-step-section-checkout-magento-2/), [1](https://www.algolia.com/doc/integration/magento-2/guides/create-a-custom-extension/?language=php), [1](https://jason.codes/2019/06/magento-2-create-jquery-ui-widget/)
+[belvg](https://belvg.com/blog/how-to-include-custom-javascript-on-pages-in-magento-2.html), [devdocs](https://devdocs.magento.com/guides/v2.3/javascript-dev-guide/javascript/custom_js.html), [stackexchange](https://magento.stackexchange.com/questions/266477/how-add-custom-js-and-css-to-registration-page-in-magento-2?noredirect=1&lq=1), [choosepizzi](https://www.choosepizzi.net/magento-2-create-a-custom-module-for-add-custom-js-css/), [jamersan](https://jamersan.com/introduction-javascript-magento-2/), [amasty](https://amasty.com/blog/lazyload-images-and-more-swift-magento-2/), [weltpixel](https://support.weltpixel.com/hc/en-us/articles/115000705293-How-to-customize-css-xml-phtml-js-files-in-Magento-2-examples-Tutorial-), [mageplaza](https://www.mageplaza.com/devdocs/javascript-bundling-group-combine-js-files-magento-2.html), [magentodeveloper](https://magentodeveloper.in/add-popup-to-product-view-page-magento2.html), [magecomp](https://magecomp.com/blog/add-new-custom-step-section-checkout-magento-2/), [algolia](https://www.algolia.com/doc/integration/magento-2/guides/create-a-custom-extension/?language=php), [jason](https://jason.codes/2019/06/magento-2-create-jquery-ui-widget/)
 
 - What options exist to include custom JavaScript on a page?
 - What are the advantages and disadvantages of inline JavaScript?
@@ -223,7 +223,7 @@ Test time: 90 minutes. Passing score: 63% or above, 60 questions. Available to t
 - How can it be done directly in a .phtml template?
 
 #### 6.2 Demonstrate understanding of using jQuery
-[1](https://devdocs.magento.com/guides/v2.3/frontend-dev-guide/css-topics/css-jquery.html), [1](https://devdocs.magento.com/guides/v2.3/javascript-dev-guide/bk-javascript-dev-guide.html), [1](https://magento.stackexchange.com/questions/290633/magento-2-using-jquery-on-html-page), [1](https://stackoverflow.com/questions/58300471/jquery-is-not-defined-in-magento-2), [1](https://webkul.com/blog/how-to-extend-jquery-widget-in-magento-2/), [1](http://paulmestereaga.com/magento-2-extend-jquery-widget/), [1](https://jamersan.com/adding-jquery-slider-magento-2-site/), [1](https://www.magestore.com/magento-2-tutorial/how-to-override-magento-js-core-in-magento-2/), [1](https://sherocommerce.com/jquery-widgets/), [1](https://www.rakeshjesadiya.com/how-to-show-loader-widget-in-ajax-call-magento-2/), [1](https://meetanshi.com/blog/get-magento-2-url-in-js-file/)
+[devdocs](https://devdocs.magento.com/guides/v2.3/frontend-dev-guide/css-topics/css-jquery.html), [devdocs](https://devdocs.magento.com/guides/v2.3/javascript-dev-guide/bk-javascript-dev-guide.html), [stackexchange](https://magento.stackexchange.com/questions/290633/magento-2-using-jquery-on-html-page), [stackoverflow](https://stackoverflow.com/questions/58300471/jquery-is-not-defined-in-magento-2), [webkul](https://webkul.com/blog/how-to-extend-jquery-widget-in-magento-2/), [paulmestereaga](http://paulmestereaga.com/magento-2-extend-jquery-widget/), [jamersan](https://jamersan.com/adding-jquery-slider-magento-2-site/), [magestore](https://www.magestore.com/magento-2-tutorial/how-to-override-magento-js-core-in-magento-2/), [sherocommerce](https://sherocommerce.com/jquery-widgets/), [rakeshjesadiya](https://www.rakeshjesadiya.com/how-to-show-loader-widget-in-ajax-call-magento-2/), [meetanshi](https://meetanshi.com/blog/get-magento-2-url-in-js-file/)
 
 - Demonstrate understanding of jQuery and jQuery UI widgets.
 - Demonstrate understanding of how to use Magento core jQuery widgets.
@@ -233,7 +233,7 @@ Test time: 90 minutes. Passing score: 63% or above, 60 questions. Available to t
 - How can a jQuery UI Widget method be wrapped with custom logic?
 
 #### 6.3 Demonstrate understanding of requireJS
-[1](https://jamersan.com/introduction-javascript-magento-2/), [1](https://devdocs.magento.com/guides/v2.3/javascript-dev-guide/javascript/js-resources.html), [1](https://devdocs.magento.com/guides/v2.2/javascript-dev-guide/javascript/requirejs.html), [1](https://devdocs.magento.com/guides/v2.3/javascript-dev-guide/javascript/custom_js.html), [1](https://belvg.com/blog/how-to-use-jquery-and-requirejs-in-magento-2-javascript-solutions.html), [1](https://magento.stackexchange.com/questions/282144/how-to-include-a-third-party-javascript-in-magento-2-using-requirejs), [1](https://stackoverflow.com/questions/56131061/requirejs-in-magento-2-gives-me-undefined-instead-of-my-library), [1](https://www.magestore.com/magento-2-tutorial/disable-requirejs-cache-magento-2/), [1](https://www.magebay.com/docs/how-to-use-requirejs-and-ajax-in-magento-2-extension/), [1](https://meetanshi.com/blog/add-custom-js-file-in-magento-2-admin-panel/), [1](https://www.magentoway.com/posts/how-to-optimize-magento2-performance-by-advanced-javascript-bundling/), [1](https://www.webnexs.com/blog/kb/disable-requirejs-cache-magento-2/), [1](https://toweringmedia.com/blog/javascript-init-scripts-magento2/)
+[jamersan](https://jamersan.com/introduction-javascript-magento-2/), [devdocs](https://devdocs.magento.com/guides/v2.3/javascript-dev-guide/javascript/js-resources.html), [devdocs](https://devdocs.magento.com/guides/v2.2/javascript-dev-guide/javascript/requirejs.html), [devdocs](https://devdocs.magento.com/guides/v2.3/javascript-dev-guide/javascript/custom_js.html), [belvg](https://belvg.com/blog/how-to-use-jquery-and-requirejs-in-magento-2-javascript-solutions.html), [stackexchange](https://magento.stackexchange.com/questions/282144/how-to-include-a-third-party-javascript-in-magento-2-using-requirejs), [stackoverflow](https://stackoverflow.com/questions/56131061/requirejs-in-magento-2-gives-me-undefined-instead-of-my-library), [magestore](https://www.magestore.com/magento-2-tutorial/disable-requirejs-cache-magento-2/), [magebay](https://www.magebay.com/docs/how-to-use-requirejs-and-ajax-in-magento-2-extension/), [meetanshi](https://meetanshi.com/blog/add-custom-js-file-in-magento-2-admin-panel/), [magentoway](https://www.magentoway.com/posts/how-to-optimize-magento2-performance-by-advanced-javascript-bundling/), [webnexs](https://www.webnexs.com/blog/kb/disable-requirejs-cache-magento-2/), [toweringmedia](https://toweringmedia.com/blog/javascript-init-scripts-magento2/)
 
 - How do you load a file with require.js?
 - How do you define a require.js module?
@@ -245,14 +245,14 @@ Test time: 90 minutes. Passing score: 63% or above, 60 questions. Available to t
 - Demonstrate that you understand how to create and configure Magento JavaScript mixins.
 
 #### 6.4 Configure JavaScript merging and minify in the Admin UI
-[1](https://belvg.com/blog/how-to-configure-javascript-merging-and-minify-in-the-admin-ui-in-magento.html), [1](https://devdocs.magento.com/guides/v2.3/performance-best-practices/advanced-js-bundling.html), [1](https://devdocs.magento.com/guides/v2.3/cloud/live/sens-data-initial.html), [1](https://devdocs.magento.com/guides/v2.3/javascript-dev-guide/javascript/js-resources.html), [1](https://devdocs.magento.com/guides/v2.3/config-guide/cli/config-cli-subcommands-static-view.html), [1](https://servebolt.com/articles/advanced-optimization-of-css-and-javascript-in-magento-2/)
+[belvg](https://belvg.com/blog/how-to-configure-javascript-merging-and-minify-in-the-admin-ui-in-magento.html), [devdocs](https://devdocs.magento.com/guides/v2.3/performance-best-practices/advanced-js-bundling.html), [devdocs1](https://devdocs.magento.com/guides/v2.3/cloud/live/sens-data-initial.html), [devdocs2](https://devdocs.magento.com/guides/v2.3/javascript-dev-guide/javascript/js-resources.html), [devdocs3](https://devdocs.magento.com/guides/v2.3/config-guide/cli/config-cli-subcommands-static-view.html), [servebolt](https://servebolt.com/articles/advanced-optimization-of-css-and-javascript-in-magento-2/)
 
 - What options are available to configure JavaScript minification and bundling?
 - How does Magento minify JavaScript?
 - What is the purpose of JavaScript bundling and minification?
 
 #### 6.5 UI component configuration
-[1](https://devdocs.magento.com/guides/v2.3/ui_comp_guide/bk-ui_comps.html), [1](https://devdocs.magento.com/guides/v2.3/ui_comp_guide/concepts/ui_comp_config_flow_concept.html), [1](https://devdocs.magento.com/guides/v2.3/ui_comp_guide/howto/new_component_declaration.html), [1](https://magently.com/blog/custom-products-grid-additional-functionalities/), [1](https://magento.stackexchange.com/questions/279987/how-to-add-dynamic-filter-in-magento-2-admin-ui-components), [1](https://dmytropoperechnyy.com/how-to-customize-button-ui-component-in-magento-2/), [1](https://www.mageworx.com/blog/how-to-add-a-field-to-custom-options-in-magento-2/)
+[devdocs](https://devdocs.magento.com/guides/v2.3/ui_comp_guide/bk-ui_comps.html), [devdocs](https://devdocs.magento.com/guides/v2.3/ui_comp_guide/concepts/ui_comp_config_flow_concept.html), [devdocs](https://devdocs.magento.com/guides/v2.3/ui_comp_guide/howto/new_component_declaration.html), [magently](https://magently.com/blog/custom-products-grid-additional-functionalities/), [stackexchange](https://magento.stackexchange.com/questions/279987/how-to-add-dynamic-filter-in-magento-2-admin-ui-components), [dmytropoperechnyy](https://dmytropoperechnyy.com/how-to-customize-button-ui-component-in-magento-2/), [mageworx](https://www.mageworx.com/blog/how-to-add-a-field-to-custom-options-in-magento-2/)
 
 - How can you specify configuration options on a UiComponent widget in JSON and in Layout XML?
 - What configuration options are available on UiComponents?
@@ -260,7 +260,7 @@ Test time: 90 minutes. Passing score: 63% or above, 60 questions. Available to t
 - Demonstrate an understanding of default.tracks
 
 #### 6.6 Understanding knockout framework
-[1](https://belvg.com/blog/what-is-knockout-js-framework.html), [1](https://www.bizspice.com/blog/post/knockout-js-in-magento-2), [1](https://store.magenest.com/blog/write-knockoutjs-magento-2/), [1](https://www.rohanhapani.com/how-to-use-knockout-js-in-magento-2/), [1](https://www.magestore.com/magento-2-tutorial/how-to-write-a-page-using-magento-2-knockout-js/), [1](https://www.codilar.com/blog/knockoutjs-in-magento-2/), [1](https://sohel.dev/2019/08/04/how-to-create-knockoutjs-custom-binding-in-magento-2/), [1](https://devdocs.magento.com/guides/v2.3/ui_comp_guide/concepts/knockout-bindings.html), [1](https://www.webnexs.com/blog/kb/write-page-using-knockout-js-magento-2/), [1](https://jason.codes/2019/07/magento-2-ui-component/), [1](https://meetanshi.com/blog/call-children-in-magento-2-template-knockout/), [1](https://devdocs.magento.com/guides/v2.3/ui_comp_guide/concepts/magento-bindings.html), [1](https://magecomp.com/blog/add-checkout-custom-form-validation-using-knockout-js-magento-2/)
+[belvg](https://belvg.com/blog/what-is-knockout-js-framework.html), [bizspice](https://www.bizspice.com/blog/post/knockout-js-in-magento-2), [magenest](https://store.magenest.com/blog/write-knockoutjs-magento-2/), [rohanhapani](https://www.rohanhapani.com/how-to-use-knockout-js-in-magento-2/), [magestore](https://www.magestore.com/magento-2-tutorial/how-to-write-a-page-using-magento-2-knockout-js/), [codilar](https://www.codilar.com/blog/knockoutjs-in-magento-2/), [sohel](https://sohel.dev/2019/08/04/how-to-create-knockoutjs-custom-binding-in-magento-2/), [devdocs](https://devdocs.magento.com/guides/v2.3/ui_comp_guide/concepts/knockout-bindings.html), [webnexs](https://www.webnexs.com/blog/kb/write-page-using-knockout-js-magento-2/), [jason](https://jason.codes/2019/07/magento-2-ui-component/), [meetanshi](https://meetanshi.com/blog/call-children-in-magento-2-template-knockout/), [devdocs](https://devdocs.magento.com/guides/v2.3/ui_comp_guide/concepts/magento-bindings.html), [magecomp](https://magecomp.com/blog/add-checkout-custom-form-validation-using-knockout-js-magento-2/)
 
 - How do you use knockout.js bindings?
 - How do you bind a ko view model to a section of the DOM with the scope binding?
@@ -270,12 +270,12 @@ Test time: 90 minutes. Passing score: 63% or above, 60 questions. Available to t
 - Demonstrate an understanding of ko virtual elements.
 
 #### 6.7 Understanding dependency between components
-[1](https://devdocs.magento.com/guides/v2.3/install-gde/trouble/readiness/tshoot_rc_depend.html), [1](https://community.magento.com/t5/Magento-2-x-Technical-Issues/conflicting-component-dependencies-in-Magento-2-3-0/td-p/118186), [1](https://devdocs.magento.com/guides/v2.3/extension-dev-guide/depend-inj.html), [1](https://magento.stackexchange.com/questions/267537/magento-2-set-dependency-between-two-dropdown-in-ui-form), [1](https://store.magenest.com/blog/create-form-use-ui-commagento-2/)
+[devdocs](https://devdocs.magento.com/guides/v2.3/install-gde/trouble/readiness/tshoot_rc_depend.html), [community](https://community.magento.com/t5/Magento-2-x-Technical-Issues/conflicting-component-dependencies-in-Magento-2-3-0/td-p/118186), [devdocs](https://devdocs.magento.com/guides/v2.3/extension-dev-guide/depend-inj.html), [stackexchange](https://magento.stackexchange.com/questions/267537/magento-2-set-dependency-between-two-dropdown-in-ui-form), [magenest](https://store.magenest.com/blog/create-form-use-ui-commagento-2/)
 
 - Demonstrate an understanding of the links, imports, exports, and listens UiComponent configuration directives.
 
 #### 6.8 Understanding string templates
-[1](https://devdocs.magento.com/guides/v2.3/ui_comp_guide/concepts/ui_comp_template_literals.html), [1](https://devdocs.magento.com/guides/v2.3/frontend-dev-guide/translations/translate_theory.html), [1](https://devdocs.magento.com/guides/v2.3/ui_comp_guide/concepts/ui_comp_linking_concept.html), [1](https://magento.stackexchange.com/questions/285265/parse-php-plain-text-to-html-magento-2), [1](https://belvg.com/blog/how-to-use-templates-and-layouts-in-magento-2-layout-overview.html), [1](https://www.hexascholars.com/code-snippet/custom-uicomponent-creation-on-the-front-end-in-magento-2/), [1](https://store.magenest.com/blog/javascript-translation-magento-2/)
+[devdocs](https://devdocs.magento.com/guides/v2.3/ui_comp_guide/concepts/ui_comp_template_literals.html), [devdocs](https://devdocs.magento.com/guides/v2.3/frontend-dev-guide/translations/translate_theory.html), [devdocs2](https://devdocs.magento.com/guides/v2.3/ui_comp_guide/concepts/ui_comp_linking_concept.html), [stackexchange](https://magento.stackexchange.com/questions/285265/parse-php-plain-text-to-html-magento-2), [belvg](https://belvg.com/blog/how-to-use-templates-and-layouts-in-magento-2-layout-overview.html), [hexascholars](https://www.hexascholars.com/code-snippet/custom-uicomponent-creation-on-the-front-end-in-magento-2/), [magenest](https://store.magenest.com/blog/javascript-translation-magento-2/)
 
 - Demonstrate an understanding of ES5 string literal templates like ${$.provider}.
 - What does $. Inside of ${ } resolve to?
@@ -284,7 +284,7 @@ Test time: 90 minutes. Passing score: 63% or above, 60 questions. Available to t
 
 #### 7.1 Explain core concepts of LESS
 
-[1](https://belvg.com/blog/plus-one-magento-2-professional-front-end-developer.html), [1](https://belvg.com/blog/another-certified-magento-2-professional-front-end-developer.html), [1](https://devdocs.magento.com/guides/v2.3/frontend-dev-guide/themes/theme-structure.html), [1](https://devdocs.magento.com/guides/v2.3/frontend-dev-guide/templates/template-override.html), [1](https://mage.training/magento-2-front-end-development-part-5), [1](https://firebearstudio.com/blog/headless-magento-2-pwa.html)
+[belvg](https://belvg.com/blog/plus-one-magento-2-professional-front-end-developer.html), [belvg2](https://belvg.com/blog/another-certified-magento-2-professional-front-end-developer.html), [devdocs](https://devdocs.magento.com/guides/v2.3/frontend-dev-guide/themes/theme-structure.html), [devdocs2](https://devdocs.magento.com/guides/v2.3/frontend-dev-guide/templates/template-override.html), [training](https://mage.training/magento-2-front-end-development-part-5), [firebearstudio](https://firebearstudio.com/blog/headless-magento-2-pwa.html)
 
 - Describe features like file import via @import directive, reusable code sections via mixins together with parameters and
 the usage of variables.
@@ -294,7 +294,7 @@ the usage of variables.
 - Describe how calculations are possible as well.
 
 #### 7.2 Explain Magento's implementation of LESS (@ magento_directive)
-[1](https://devdocs.magento.com/guides/v2.3/frontend-dev-guide/css-topics/css-preprocess.html), [1](https://devdocs.magento.com/guides/v2.3/frontend-dev-guide/css-topics/css_debug.html), [1](https://devdocs.magento.com/guides/v2.3/frontend-dev-guide/responsive-web-design/rwd_css.html), [1](https://devdocs.magento.com/guides/v2.3/frontend-dev-guide/bk-frontend-dev-guide.html), [1](https://belvg.com/blog/what-is-css-in-magento-2.html), [1](https://belvg.com/blog/another-certified-magento-2-professional-front-end-developer.html), [1](https://support.weltpixel.com/hc/en-us/articles/360007925833-How-to-Go-Live-with-Magento-2-in-less-than-30-days-using-the-Pearl-Theme-50-step-guide-tutorial-)
+[devdocs](https://devdocs.magento.com/guides/v2.3/frontend-dev-guide/css-topics/css-preprocess.html), [devdocs2](https://devdocs.magento.com/guides/v2.3/frontend-dev-guide/css-topics/css_debug.html), [devdocs3](https://devdocs.magento.com/guides/v2.3/frontend-dev-guide/responsive-web-design/rwd_css.html), [devdocs4](https://devdocs.magento.com/guides/v2.3/frontend-dev-guide/bk-frontend-dev-guide.html), [belvg](https://belvg.com/blog/what-is-css-in-magento-2.html), [belvg](https://belvg.com/blog/another-certified-magento-2-professional-front-end-developer.html), [weltpixel](https://support.weltpixel.com/hc/en-us/articles/360007925833-How-to-Go-Live-with-Magento-2-in-less-than-30-days-using-the-Pearl-Theme-50-step-guide-tutorial-)
 
 - Demonstrate the process from magento-less files via php preprocessing into real LESS files with extracted @import
 directives.
@@ -304,20 +304,20 @@ directives.
 - Are the original files copied or symlinked in developer environments?
 
 #### 7.3 Describe the purpose of _ module.less, _ extend.less, _ extends.less
-[1](https://devdocs.magento.com/guides/v2.3/frontend-dev-guide/css-guide/css_quick_guide_approach.html), [1](https://devdocs.magento.com/guides/v2.3/frontend-dev-guide/css-topics/css-preprocess.html), [1](https://devdocs.magento.com/guides/v2.3/frontend-dev-guide/css-guide/css_quick_guide_mode.html), [1](https://store.magenest.com/blog/use-less-extend-styling-magento-2/), [1](http://ipfs-sec.stackexchange.cloudflare-ipfs.com/magento/A/question/116248.html), [1](https://support.weltpixel.com/hc/en-us/articles/360015798914-How-LESS-CSS-Generation-works-in-Pearl-Theme-Magento-developer-corner-), [1](https://amasty.com/knowledge-base/magento-2-css.html), [1](https://dsanderson.co.uk/magento-2-css-less-compilation/)
+[devdocs](https://devdocs.magento.com/guides/v2.3/frontend-dev-guide/css-guide/css_quick_guide_approach.html), [devdocs](https://devdocs.magento.com/guides/v2.3/frontend-dev-guide/css-topics/css-preprocess.html), [devdocs2](https://devdocs.magento.com/guides/v2.3/frontend-dev-guide/css-guide/css_quick_guide_mode.html), [magenest](https://store.magenest.com/blog/use-less-extend-styling-magento-2/), [ipfs](http://ipfs-sec.stackexchange.cloudflare-ipfs.com/magento/A/question/116248.html), [weltpixel](https://support.weltpixel.com/hc/en-us/articles/360015798914-How-LESS-CSS-Generation-works-in-Pearl-Theme-Magento-developer-corner-), [amasty](https://amasty.com/knowledge-base/magento-2-css.html), [dsanderson](https://dsanderson.co.uk/magento-2-css-less-compilation/)
 
 - Demonstrate LESS has no fallback capabilities and therefor
 - magento created @magento_import directives to enable FE devs to inject or replace parts of existing less structures of modules and themes.
 
 #### 7.4 Show configuration and usage of CSS merging and minification
-[1](https://devdocs.magento.com/guides/v2.3/frontend-dev-guide/themes/js-bundling.html), [1](https://support.weltpixel.com/hc/en-us/articles/360007311554-How-to-minify-merge-bundle-of-HTML-CSS-JS-Magento-Cloud-vs-Magento-Admin), [1](https://medium.com/@techemizen/increase-efficiency-of-your-magento-2-website-with-this-magento-2-speed-optimization-guide-7a611b33121d), [1](https://www.atwix.com/magento-2/how-to-disable-javascript-bundling-for-particular-page-in-magento-2/), [1](https://www.emizentech.com/blog/magento-2-speed-optimization-guide.html), [1](https://www.mageworx.com/blog/magento-2-speed-optimization-research-proves-default-functionality-is-enough/), [1](https://www.toptal.com/magento/magento-performance-optimization-guide), [1](https://olegnax.com/magento-2-speed-optimization-guide/), [1](https://onilab.com/blog/magento-2-performance-speed-optimization-guide/)
+[devdocs](https://devdocs.magento.com/guides/v2.3/frontend-dev-guide/themes/js-bundling.html), [weltpixel](https://support.weltpixel.com/hc/en-us/articles/360007311554-How-to-minify-merge-bundle-of-HTML-CSS-JS-Magento-Cloud-vs-Magento-Admin), [medium](https://medium.com/@techemizen/increase-efficiency-of-your-magento-2-website-with-this-magento-2-speed-optimization-guide-7a611b33121d), [atwix](https://www.atwix.com/magento-2/how-to-disable-javascript-bundling-for-particular-page-in-magento-2/), [emizentech](https://www.emizentech.com/blog/magento-2-speed-optimization-guide.html), [mageworx](https://www.mageworx.com/blog/magento-2-speed-optimization-research-proves-default-functionality-is-enough/), [toptal](https://www.toptal.com/magento/magento-performance-optimization-guide), [olegnax](https://olegnax.com/magento-2-speed-optimization-guide/), [onilab](https://onilab.com/blog/magento-2-performance-speed-optimization-guide/)
 
 - Demonstrate the primary use case for merging and minifaction.
 - Determine how these options can be found in the backend.
 - Understand the implications merging has in respect to folder traversal.
 
 #### 7.5 Magento UI library usage
- [1](https://devdocs.magento.com/guides/v2.3/frontend-dev-guide/css-topics/theme-ui-lib.html), [1](https://devdocs.magento.com/guides/v2.3/architecture/frontend_custom_strategies.html), [1](https://devdocs.magento.com/guides/v2.3/frontend-dev-guide/css-topics/css-overview.html), [1](https://belvg.com/blog/what-is-css-in-magento-2.html), [1](https://belvg.com/blog/another-certified-magento-2-professional-front-end-developer.html), [1](https://store.magenest.com/blog/use-less-extend-styling-magento-2/), [1](https://magently.com/blog/custom-products-grid-base-xml/), [1](https://www.algolia.com/doc/integration/magento-2/how-it-works/front-end/?language=php), [1](https://astrio.net/blog/magento2-frontend-speedup1/), [1](https://magenticians.com/magento-2-override-block/), [1](https://www.emiprotechnologies.com/technical_notes/magento-technical-notes-60/post/ui-component-using-layout-xml-in-magento-2-664), [1](https://www.magestore.com/magento-2-tutorial/create-simple-grid-listing-in-magento-2-admin-with-ui-component/)
+ [devdocs](https://devdocs.magento.com/guides/v2.3/frontend-dev-guide/css-topics/theme-ui-lib.html), [devdocs2](https://devdocs.magento.com/guides/v2.3/architecture/frontend_custom_strategies.html), [devdocs3](https://devdocs.magento.com/guides/v2.3/frontend-dev-guide/css-topics/css-overview.html), [belvg](https://belvg.com/blog/what-is-css-in-magento-2.html), [belvg2](https://belvg.com/blog/another-certified-magento-2-professional-front-end-developer.html), [magenest](https://store.magenest.com/blog/use-less-extend-styling-magento-2/), [magently](https://magently.com/blog/custom-products-grid-base-xml/), [algolia](https://www.algolia.com/doc/integration/magento-2/how-it-works/front-end/?language=php), [astrio](https://astrio.net/blog/magento2-frontend-speedup1/), [magenticians](https://magenticians.com/magento-2-override-block/), [emiprotechnologies](https://www.emiprotechnologies.com/technical_notes/magento-technical-notes-60/post/ui-component-using-layout-xml-in-magento-2-664), [magestore](https://www.magestore.com/magento-2-tutorial/create-simple-grid-listing-in-magento-2-admin-with-ui-component/)
 - Demonstrate your understanding of magento's UI library, a LESS-based library of mixins and variables for many different standard design elements on websites.
 - How can you take advantage of the UI library?
 - What do you have to do to enable it in your theme?
@@ -328,7 +328,7 @@ directives.
 ### <a name="8">8 Customize the Look and Feel of Specific Magento Pages 22%</a> [Go to Top](#top)
 
 #### 8.1 Utilize generic page elements
-[1](https://devdocs.magento.com/guides/v2.3/frontend-dev-guide/layouts/layout-types.html), [1](https://devdocs.magento.com/page-builder/docs/how-to/how-to-create-container-content-type.html), [1](https://devdocs.magento.com/page-builder/docs/reference/architecture.html), [1](https://magento.stackexchange.com/questions/265791/magento2-how-to-show-button-in-admin-for-custom-module-page), [1](https://magento.stackexchange.com/questions/289624/magento-2-update-handle-in-xml-file), [1](https://markshust.com/2019/03/13/magic-pass-through-viewmodels-magento-2/), [1](https://belvg.com/blog/another-certified-magento-2-professional-front-end-developer.html), [1](https://www.etatvasoft.com/blog/magento-2-override-magento-core-files/), [1](https://itnext.io/using-cms-blocks-effectively-in-vue-storefront-8020df888844), [1](http://www.codextblog.com/magento-2/how-to-render-an-html-using-an-ajax-call-in-magento-2-module/]
+[devdocs](https://devdocs.magento.com/guides/v2.3/frontend-dev-guide/layouts/layout-types.html), [devdocs2](https://devdocs.magento.com/page-builder/docs/how-to/how-to-create-container-content-type.html), [devdocs3](https://devdocs.magento.com/page-builder/docs/reference/architecture.html), [stackexchange](https://magento.stackexchange.com/questions/265791/magento2-how-to-show-button-in-admin-for-custom-module-page), [stackexchange](https://magento.stackexchange.com/questions/289624/magento-2-update-handle-in-xml-file), [markshust](https://markshust.com/2019/03/13/magic-pass-through-viewmodels-magento-2/), [belvg](https://belvg.com/blog/another-certified-magento-2-professional-front-end-developer.html), [etatvasoft](https://www.etatvasoft.com/blog/magento-2-override-magento-core-files/), [itnext](https://itnext.io/using-cms-blocks-effectively-in-vue-storefront-8020df888844), [codextblog](http://www.codextblog.com/magento-2/how-to-render-an-html-using-an-ajax-call-in-magento-2-module/]
 
 - Demonstrate an understanding of customizing generic page elements that can be found on most pages:
    - page header and footer []()
@@ -339,7 +339,7 @@ directives.
    - sidebar menu []()
 
 #### 8.2 Customizing product detail pages
- [1](https://www.magestore.com/magento-2-tutorial/magento-2-edit-product-page-template-and-layout-in-seconds/), [1](https://www.atwix.com/magento-2/add-custom-layout-handle-to-product-page-magento-2/), [1](https://www.ubertheme.com/magento2/how-to-add-magento-2-product-tabs/), [1](https://webkul.com/blog/add-custom-text-under-price-details-on-product-page-magento-2/), [1](https://www.bizspice.com/blog/post/learn-how-to-add-next-previous-button-on-magento2-product-page), [1](https://belvg.com/blog/magento-2-certification-page-layouts-and-their-inheritance.html), [1](https://blog.magezon.com/customize-magento-2-product-tabs-single-product-page-builder/), [1](http://themes.magesolution.com/supro/doc/detail_page.php), [1](https://magecomp.com/blog/add-custom-options-product-programmatically-magento-2/), [1](https://meetanshi.com/blog/add-rename-remove-product-info-tabs-in-magento-2/), [1](https://www.mageplaza.com/blog/customize-options-magento-2-better-product-options.html), [1](https://store.magenest.com/blog/how-to-add-custom-fields-product-edit-pages-magento-2/)
+ [magestore](https://www.magestore.com/magento-2-tutorial/magento-2-edit-product-page-template-and-layout-in-seconds/), [atwix](https://www.atwix.com/magento-2/add-custom-layout-handle-to-product-page-magento-2/), [ubertheme](https://www.ubertheme.com/magento2/how-to-add-magento-2-product-tabs/), [webkul](https://webkul.com/blog/add-custom-text-under-price-details-on-product-page-magento-2/), [bizspice](https://www.bizspice.com/blog/post/learn-how-to-add-next-previous-button-on-magento2-product-page), [belvg](https://belvg.com/blog/magento-2-certification-page-layouts-and-their-inheritance.html), [magezon](https://blog.magezon.com/customize-magento-2-product-tabs-single-product-page-builder/), [magesolution](http://themes.magesolution.com/supro/doc/detail_page.php), [magecomp](https://magecomp.com/blog/add-custom-options-product-programmatically-magento-2/), [meetanshi](https://meetanshi.com/blog/add-rename-remove-product-info-tabs-in-magento-2/), [mageplaza](https://www.mageplaza.com/blog/customize-options-magento-2-better-product-options.html), [magenest](https://store.magenest.com/blog/how-to-add-custom-fields-product-edit-pages-magento-2/)
 
 - How can design changes (page layout) be configured on product detail pages?[]()
 - How can design changes be configured for specific product types?[]()
@@ -347,22 +347,22 @@ directives.
 - Demonstrate an understanding of how to use the container blocks provided by Magento to display additional information on category pages. []()
 
 #### 8.3 Customizing category pages
-[1](https://support.weltpixel.com/hc/en-us/articles/115004938607-How-to-change-category-layout-in-Magento-2-), [1](https://www.atwix.com/magento-2/how-to-add-custom-layout-handle-to-category-in-magento-2/), [1](https://support.weltpixel.com/hc/en-us/articles/115000875534-How-to-configure-category-page-with-without-sidebar), [1](https://www.metagento.com/blog/magento-2-set-custom-page-title-for-category-pages), [1](https://belvg.com/blog/magento-2-certification-page-layouts-and-their-inheritance.html)
+[weltpixel](https://support.weltpixel.com/hc/en-us/articles/115004938607-How-to-change-category-layout-in-Magento-2-), [atwix](https://www.atwix.com/magento-2/how-to-add-custom-layout-handle-to-category-in-magento-2/), [weltpixel](https://support.weltpixel.com/hc/en-us/articles/115000875534-How-to-configure-category-page-with-without-sidebar), [metagento](https://www.metagento.com/blog/magento-2-set-custom-page-title-for-category-pages), [belvg](https://belvg.com/blog/magento-2-certification-page-layouts-and-their-inheritance.html)
 
 - How can design changes (page layout) be configured on category pages? [1]()
-[1](https://www.magestore.com/magento-2-tutorial/magento-2-change-category-page-layout-and-custom-theme/), [1](https://support.weltpixel.com/hc/en-us/articles/115004938607-How-to-change-category-layout-in-Magento-2-), [1](https://fishpig.co.uk/magento/wordpress-integration/layout-xml/)
+[magestore](https://www.magestore.com/magento-2-tutorial/magento-2-change-category-page-layout-and-custom-theme/), [weltpixel](https://support.weltpixel.com/hc/en-us/articles/115004938607-How-to-change-category-layout-in-Magento-2-), [fishpig](https://fishpig.co.uk/magento/wordpress-integration/layout-xml/)
 
-- How can the layered navigation be configured? [1](https://www.magestore.com/magento-2-tutorial/magento-2-how-to-enable-layered-navigation/), [1](https://docs.magento.com/m2/ee/user_guide/catalog/navigation-layered-filterable-attributes.html), [1](https://www.mageplaza.com/blog/custom-product-collection-layered-navigation-magento-2.html), [1](https://www.mageplaza.com/blog/custom-layered-navigation-in-magento-2.html), [1](https://firebearstudio.com/blog/elastic-layered-navigation-for-magento-2.html), [1](https://amasty.com/knowledge-base/configure-magento-1-2-filters-with-layered-navigation.html), [1](https://amasty.com/docs/doku.php?id=magento_2:improved_layered_navigation), [1](https://magecomp.com/blog/expand-default-layered-navigation-category-filters-magento-2/)
+- How can the layered navigation be configured? [magestore](https://www.magestore.com/magento-2-tutorial/magento-2-how-to-enable-layered-navigation/), [docs](https://docs.magento.com/m2/ee/user_guide/catalog/navigation-layered-filterable-attributes.html), [mageplaza](https://www.mageplaza.com/blog/custom-product-collection-layered-navigation-magento-2.html), [mageplaza2](https://www.mageplaza.com/blog/custom-layered-navigation-in-magento-2.html), [firebearstudio](https://firebearstudio.com/blog/elastic-layered-navigation-for-magento-2.html), [amasty](https://amasty.com/knowledge-base/configure-magento-1-2-filters-with-layered-navigation.html), [amasty2](https://amasty.com/docs/doku.php?id=magento_2:improved_layered_navigation), [magecomp](https://magecomp.com/blog/expand-default-layered-navigation-category-filters-magento-2/)
 
-- Demonstrate an understanding of configuring design inheritance for category pages.[1](https://belvg.com/blog/magento-2-certification-page-layouts-and-their-inheritance.html), [1](https://devdocs.magento.com/guides/v2.3/frontend-dev-guide/themes/theme-inherit.html), [1](https://devdocs.magento.com/guides/v2.3/frontend-dev-guide/themes/theme-images.html), [1](https://magento.stackexchange.com/questions/272160/page-layouts-1-column-2-columns-left-2-columns-right-3-column), [1](https://www.magestore.com/magento-2-tutorial/magento-2-change-category-page-layout-and-custom-theme/), [1](https://store.magenest.com/blog/create-new-theme-magento-2/)
+- Demonstrate an understanding of configuring design inheritance for category pages.[belvg](https://belvg.com/blog/magento-2-certification-page-layouts-and-their-inheritance.html), [devdocs1](https://devdocs.magento.com/guides/v2.3/frontend-dev-guide/themes/theme-inherit.html), [devdocs](https://devdocs.magento.com/guides/v2.3/frontend-dev-guide/themes/theme-images.html), [stackexchange](https://magento.stackexchange.com/questions/272160/page-layouts-1-column-2-columns-left-2-columns-right-3-column), [magestore](https://www.magestore.com/magento-2-tutorial/magento-2-change-category-page-layout-and-custom-theme/), [magenest](https://store.magenest.com/blog/create-new-theme-magento-2/)
 
-- How can a CMS block be configured as a category landing page? [1](https://magento.stackexchange.com/questions/265945/how-to-set-cms-block-to-category-in-magento-2-programmatically), [1](https://amasty.com/docs/doku.php?id=magento_2:landing_pages), [1](https://belvg.com/blog/how-to-add-new-category-in-magento-2.html), [1](https://meetanshi.com/blog/call-cms-static-block-in-phtml-file-in-magento-2/), [1](https://firebearstudio.com/blog/schedule-block-magento-2-extension-by-sharadice.html), [1](http://www.blogtreat.com/magento-2-creating-cms-static-block-using-installable-script/), [1](https://magento.stackexchange.com/questions/252641/terms-and-conditions-from-static-block-magento2)
+- How can a CMS block be configured as a category landing page? [stackexchange](https://magento.stackexchange.com/questions/265945/how-to-set-cms-block-to-category-in-magento-2-programmatically), [amasty](https://amasty.com/docs/doku.php?id=magento_2:landing_pages), [belvg](https://belvg.com/blog/how-to-add-new-category-in-magento-2.html), [meetanshi](https://meetanshi.com/blog/call-cms-static-block-in-phtml-file-in-magento-2/), [firebearstudio](https://firebearstudio.com/blog/schedule-block-magento-2-extension-by-sharadice.html), [blogtreat](http://www.blogtreat.com/magento-2-creating-cms-static-block-using-installable-script/), [stackexchange](https://magento.stackexchange.com/questions/252641/terms-and-conditions-from-static-block-magento2)
 
 #### 8.4 Customizing CMS pages
-- How can design changes (page layout) be configured on CMS pages? [1](https://devdocs.magento.com/guides/v2.3/frontend-dev-guide/layouts/layout-overview.html), [1](https://devdocs.magento.com/page-builder/docs/how-to/how-to-use-full-width-layouts.html), [1](https://jason.codes/2019/03/magento-2-create-new-page-layout/), [1](https://magecomp.com/blog/add-custom-cms-page-layout-magento-2/), [1](https://support.weltpixel.com/hc/en-us/articles/115005199487-How-to-set-a-Homepage-as-the-default-page-for-my-Magento-store-)
+- How can design changes (page layout) be configured on CMS pages? [devdocs](https://devdocs.magento.com/guides/v2.3/frontend-dev-guide/layouts/layout-overview.html), [devdocs2](https://devdocs.magento.com/page-builder/docs/how-to/how-to-use-full-width-layouts.html), [jason](https://jason.codes/2019/03/magento-2-create-new-page-layout/), [magecomp](https://magecomp.com/blog/add-custom-cms-page-layout-magento-2/), [weltpixel](https://support.weltpixel.com/hc/en-us/articles/115005199487-How-to-set-a-Homepage-as-the-default-page-for-my-Magento-store-)
 
 - Demonstrate an understanding of static variables in CMS blocks and pages.  
-[1](https://belvg.com/blog/custom-variables-and-filters-in-static-blocks-in-magento-2.html), [1](https://www.rakeshjesadiya.com/how-to-filter-static-block-content-in-template-file-using-magento-2/), [1](https://magento.stackexchange.com/questions/274114/get-static-block-content-by-identifier-in-helper-class?rq=1), [1](https://www.bizspice.com/blog/post/how-to-add-a-static-block-on-checkout-on-magento-2-using-knockoutjs), [1](https://docs.magento.com/m2/ee/user_guide/cms/page-builder-tutorial2-blocks.html), [1](https://devdocs.magento.com/guides/v2.3/mtf/mtf_entities/mtf_block.html), [1](https://magecomp.com/blog/pass-data-cms-block-phtml-file-magento-2/), [1](https://www.webnexs.com/blog/kb/add-variable-magento-2-templates/)
+[belvg](https://belvg.com/blog/custom-variables-and-filters-in-static-blocks-in-magento-2.html), [rakeshjesadiya](https://www.rakeshjesadiya.com/how-to-filter-static-block-content-in-template-file-using-magento-2/), [stackexchange](https://magento.stackexchange.com/questions/274114/get-static-block-content-by-identifier-in-helper-class?rq=1), [bizspice](https://www.bizspice.com/blog/post/how-to-add-a-static-block-on-checkout-on-magento-2-using-knockoutjs), [docs](https://docs.magento.com/m2/ee/user_guide/cms/page-builder-tutorial2-blocks.html), [devdocs](https://devdocs.magento.com/guides/v2.3/mtf/mtf_entities/mtf_block.html), [magecomp](https://magecomp.com/blog/pass-data-cms-block-phtml-file-magento-2/), [webnexs](https://www.webnexs.com/blog/kb/add-variable-magento-2-templates/)
 
 - Demonstrate an understanding of the use of CMS template directives (var, store, block, …).  
 [1](https://www.atwix.com/magento-2/directives/), [1](https://magento.stackexchange.com/questions/154352/custom-cms-directives-for-magento-2-1), [1](https://jamersan.com/directives-magento-use/), [1](https://magento.stackexchange.com/questions/245402/magento-2-variable-with-storeviewcode), [1](https://inchoo.net/magento-2/cache/how-to-save-custom-data-cache-magento-2/), [1](https://stackoverflow.com/questions/42601199/magento-2-passing-store-variables-to-block-from-layout-xml-file)
@@ -429,24 +429,13 @@ directives.
 - In what priority are translations applied?  [webinterpret](https://www.webinterpret.com/au/blog/ecommerce-translation-magento/), [atwix](https://www.atwix.com/magento/manage-translation-system/), [belvg](https://belvg.com/blog/how-to-internationalize-a-magento-store.html),[stackexchange](https://magento.stackexchange.com/questions/170997/magento-2-priority-of-translation-proper-way)
 
 
-
-
-
-
-
-
 #### 9.2 Translate theme strings
 
 - Translate theme strings for .phtml, emails, UI components, .js files? [belvg](https://belvg.com/blog/plus-one-magento-2-professional-front-end-developer.html), [magestore](https://www.magestore.com/magento-2-tutorial/how-to-translate-a-string-by-code-in-magento-2/)
 
-
-
-
 - Demonstrate an understanding of string translation in JavaScript? [devdocs](https://devdocs.magento.com/guides/v2.3/frontend-dev-guide/translations/translate_theory.html),[firebearstudio](https://firebearstudio.com/blog/how-to-make-javascript-strings-translatable-localizable-in-magento-2.html),[mrvts](https://mrvts.wordpress.com/2018/07/19/magento-2-javascript-translation-sometime-translate-sometime-not-work-why-and-how-to-fix/),[webnexs](https://www.webnexs.com/blog/kb/convert-string-by-code-magento-2/),[integer](https://www.integer-net.com/magento-2-translations-contribution/)
 
-
-
-
+ 
 ###  <a name="10"> 10 Magento Development Process 3%</a> [Go to Top](#top)
 
 #### 10.1 Determine ability to manage cache
