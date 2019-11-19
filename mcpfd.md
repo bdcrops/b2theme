@@ -88,7 +88,7 @@ Test time: 90 minutes. Passing score: 63% or above, 60 questions. Available to t
 - What is the purpose of the attributes that are available on blocks and other elements?
 
 #### 3.2 Describe page layouts and their inheritance
-[1](https://belvg.com/blog/magento-2-certification-page-layouts-and-their-inheritance.html), [1](https://devdocs.magento.com/guides/v2.3/frontend-dev-guide/layouts/layout-extend.html), [1](https://magento.stackexchange.com/questions/210851/magento2-what-is-the-difference-between-layout-and-page-layout), [1](https://mage2.pro/t/topic/3902), [1](https://mage2.pro/t/topic/752), [1](https://stackoverflow.com/questions/55418987/overriding-magento-2-base-empty-page-layout), [1](https://www.mageplaza.com/devdocs/how-to-create-magento-2-theme.html)
+[belvg](https://belvg.com/blog/magento-2-certification-page-layouts-and-their-inheritance.html), [devdocs](https://devdocs.magento.com/guides/v2.3/frontend-dev-guide/layouts/layout-extend.html), [stackexchange](https://magento.stackexchange.com/questions/210851/magento2-what-is-the-difference-between-layout-and-page-layout), [mage2](https://mage2.pro/t/topic/3902), [1](https://mage2.pro/t/topic/752), [stackoverflow](https://stackoverflow.com/questions/55418987/overriding-magento-2-base-empty-page-layout), [mageplaza](https://www.mageplaza.com/devdocs/how-to-create-magento-2-theme.html)
 
 - How can the page layout be specified?
 - What is the purpose of page layouts?
