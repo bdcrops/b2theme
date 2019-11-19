@@ -66,7 +66,7 @@ Test time: 90 minutes. Passing score: 63% or above, 60 questions. Available to t
 - What common mistakes can be made in regard to these settings?
 
 #### 2.3 Apply a temporary theme configuration
-[belvg](https://belvg.com/blog/magento-fallback-configuration-default-and-specific-themes-packages-design-exceptions-temporary-theme-configuration.html), [devdocs](https://devdocs.magento.com/guides/v2.3/config-guide/cli/config-cli-subcommands-config-mgmt-set.html), [github](https://github.com/magento-notes/magento2-exam-notes/blob/master/), [github](https://github.com/magento-notes/magento2-exam-notes/tree/master/3. Customizing the Magento UI), [amasty](https://amasty.com/knowledge-base/magento-2-admin-panel-tutorial.html)
+[belvg](https://belvg.com/blog/magento-fallback-configuration-default-and-specific-themes-packages-design-exceptions-temporary-theme-configuration.html), [devdocs](https://devdocs.magento.com/guides/v2.3/config-guide/cli/config-cli-subcommands-config-mgmt-set.html), [github](https://github.com/magento-notes/magento2-exam-notes/blob/master/),  [amasty](https://amasty.com/knowledge-base/magento-2-admin-panel-tutorial.html)
 
 -  temporary theme configuration to a store view using the options found in the Admin UI under Content > Design > Schedule?
 - What is the purpose of this feature? How does it influence rendering if a design change is scheduled?
@@ -435,7 +435,7 @@ directives.
 
 - Demonstrate an understanding of string translation in JavaScript? [devdocs](https://devdocs.magento.com/guides/v2.3/frontend-dev-guide/translations/translate_theory.html),[firebearstudio](https://firebearstudio.com/blog/how-to-make-javascript-strings-translatable-localizable-in-magento-2.html),[mrvts](https://mrvts.wordpress.com/2018/07/19/magento-2-javascript-translation-sometime-translate-sometime-not-work-why-and-how-to-fix/),[webnexs](https://www.webnexs.com/blog/kb/convert-string-by-code-magento-2/),[integer](https://www.integer-net.com/magento-2-translations-contribution/)
 
- 
+
 ###  <a name="10"> 10 Magento Development Process 3%</a> [Go to Top](#top)
 
 #### 10.1 Determine ability to manage cache
