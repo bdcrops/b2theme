@@ -456,9 +456,14 @@ directives.
 ***
 ### Ref:
 
-- [Devdocs Series](https://devdocs.magento.com/guides/v2.3/frontend-dev-guide/bk-frontend-dev-guide.html)
+- [DevdocsFdSeries](https://devdocs.magento.com/guides/v2.3/frontend-dev-guide/bk-frontend-dev-guide.html)
+- [devdocsJsSeries](https://devdocs.magento.com/guides/v2.3/javascript-dev-guide/bk-javascript-dev-guide.html)
+- [devdocsUiSeries](https://devdocs.magento.com/guides/v2.3/ui_comp_guide/bk-ui_comps.html)
+
+- [jamersan Series3](https://jamersan.com/lets-get-started-theming-magento-2-part-1/)
 
 
+***
 
 #### Magento 2 Certified Professional Front End Developer Exam
 Example Questions See the Answer Key following the questions for answers.
