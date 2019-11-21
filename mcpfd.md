@@ -17,9 +17,9 @@ Test time: 90 minutes. Passing score: 63% or above, 60 questions. Available to t
 
 ##  Topics and Objectives
 
-### 1 Create Themes 7%
+### <a name="1">1 Create Themes 7%</a>
 
-#### <a name="1">1.1 Describe folder structure for local and Composer-based themes</a>
+#### 1.1 Describe folder structure for local and Composer-based themes</a>
  [devdocs](https://devdocs.magento.com/guides/v2.3/frontend-dev-guide/themes/theme-structure.html), [mageplaza](https://www.mageplaza.com/devdocs/file-structure-magento-2.html), [meetanshi](https://meetanshi.com/blog/create-child-theme-in-magento-2/), [templatetoaster](https://blog.templatetoaster.com/create-magento-theme/), [devdocs1](https://devdocs.magento.com/guides/v2.3/frontend-dev-guide/themes/theme-structure.html), [devdocs](https://devdocs.magento.com/guides/v2.3/cloud/howtos/custom-theme.html), [github](https://github.com/MagePsycho/magento2-starter-theme), [meetanshi](https://meetanshi.com/blog/install-a-theme-in-magento-2/), [belvg](https://belvg.com/blog/another-certified-magento-2-professional-front-end-developer.html), [devdocs](https://devdocs.magento.com/guides/v2.3/frontend-dev-guide/themes/theme-structure.html)
 
 - In which folders can themes be located?
@@ -328,7 +328,7 @@ directives.
 ### <a name="8">8 Customize the Look and Feel of Specific Magento Pages 22%</a> [Go to Top](#top)
 
 #### 8.1 Utilize generic page elements
-[devdocs](https://devdocs.magento.com/guides/v2.3/frontend-dev-guide/layouts/layout-types.html), [devdocs2](https://devdocs.magento.com/page-builder/docs/how-to/how-to-create-container-content-type.html), [devdocs3](https://devdocs.magento.com/page-builder/docs/reference/architecture.html), [stackexchange](https://magento.stackexchange.com/questions/265791/magento2-how-to-show-button-in-admin-for-custom-module-page), [stackexchange](https://magento.stackexchange.com/questions/289624/magento-2-update-handle-in-xml-file), [markshust](https://markshust.com/2019/03/13/magic-pass-through-viewmodels-magento-2/), [belvg](https://belvg.com/blog/another-certified-magento-2-professional-front-end-developer.html), [etatvasoft](https://www.etatvasoft.com/blog/magento-2-override-magento-core-files/), [itnext](https://itnext.io/using-cms-blocks-effectively-in-vue-storefront-8020df888844), [codextblog](http://www.codextblog.com/magento-2/how-to-render-an-html-using-an-ajax-call-in-magento-2-module/]
+[devdocs](https://devdocs.magento.com/guides/v2.3/frontend-dev-guide/layouts/layout-types.html), [devdocs2](https://devdocs.magento.com/page-builder/docs/how-to/how-to-create-container-content-type.html), [devdocs3](https://devdocs.magento.com/page-builder/docs/reference/architecture.html), [stackexchange](https://magento.stackexchange.com/questions/265791/magento2-how-to-show-button-in-admin-for-custom-module-page), [stackexchange](https://magento.stackexchange.com/questions/289624/magento-2-update-handle-in-xml-file), [markshust](https://markshust.com/2019/03/13/magic-pass-through-viewmodels-magento-2/), [belvg](https://belvg.com/blog/another-certified-magento-2-professional-front-end-developer.html), [etatvasoft](https://www.etatvasoft.com/blog/magento-2-override-magento-core-files/), [itnext](https://itnext.io/using-cms-blocks-effectively-in-vue-storefront-8020df888844), [codextblog1](http://www.codextblog.com/magento-2/how-to-render-an-html-using-an-ajax-call-in-magento-2-module/)
 
 - Demonstrate an understanding of customizing generic page elements that can be found on most pages:
    - page header and footer []()
